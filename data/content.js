@@ -30,13 +30,13 @@ window.siteContent = {
       },
     },
     home: {
-      eyebrow: "Full-stack systems, operational reliability, product delivery",
+      eyebrow: "Full-stack development, business systems, IT support",
       heroName: "Edwin Njoroge",
       heroRole: "Full-Stack Developer",
       heroLead:
-        "I build production web applications, business systems, and the technical operations that keep them useful after launch.",
+        "I build and support business software, from the application code to the server setup behind it.",
       heroBody:
-        "My work spans SaaS platforms, ERP and CRM systems, web applications, mobile delivery, cloud operations, application support, and workflow automation. This site stays software-first while showing the systems and support work behind the products.",
+        "Most of my recent work has been practical: ERP and CRM systems, SaaS platforms, mobile apps, client onboarding, database work, Linux servers, DNS, SSL, and the support that follows after people start using the system.",
       ctas: {
         primary: "View Resume",
         secondary: "Explore Projects",
@@ -98,22 +98,22 @@ window.siteContent = {
     },
     about: {
       eyebrow: "Professional overview",
-      title: "Building software with breadth and discipline",
+      title: "Software work with a practical IT side",
       lead:
-        "I am a full-stack developer with experience spanning product engineering, internal business systems, mobile delivery, infrastructure support, and practical IT operations.",
+        "I am a full-stack developer who has also spent a lot of time setting up, supporting, and maintaining the systems I build.",
       paragraphs: [
-        "My strongest work sits at the intersection of software delivery and operational ownership. I do not just build interfaces: I also work with APIs, data structures, deployments, database administration, DNS, SSL, user setup, documentation, and the day-to-day realities of keeping systems reliable.",
-        "Across freelance and contract work, I have contributed to SaaS products, ERP and CRM systems, office and connectivity setups, and client platforms that needed both technical execution and practical business support.",
-        "I also use AI-assisted development and workflow automation tools such as n8n, OpenClaw, Hermes, Paperclip, and RAG-style assistants to reduce repetitive work, improve documentation, and connect systems.",
-        "I also have a creative background in 3D, motion, and TVC-related production. That experience still influences how I think about presentation, clarity, and visual quality, even though software is the main direction of this site.",
+        "I started out doing a mix of software, IT support, and creative work for small clients. Over time the software side became bigger, but the support side never really disappeared. In recent projects I have been the person setting up users, checking databases, configuring servers, fixing bugs, writing notes for staff, and explaining how the system should be used.",
+        "That is the kind of work I like: building the app, then making sure it survives contact with real business operations. MarketpulseOS and the WideOptions ERP/CRM project are good examples. They needed code, but they also needed data migration, DNS and SSL setup, staff onboarding, documentation, and ongoing troubleshooting.",
+        "I use AI tools for specific jobs: faster development, workflow automation with n8n, and knowledge assistants or agent tools such as OpenClaw, Hermes, Paperclip, and RAG-based systems.",
+        "I still keep some older 3D and motion work in the portfolio. It is not my main direction now, but it shaped how I think about presentation and clean visual communication.",
       ],
       principlesTitle: "How I work",
       principlesEyebrow: "Approach",
       principles: [
-        "Build for clarity before complexity.",
-        "Keep systems maintainable after launch.",
-        "Treat infrastructure, support, and delivery as part of the product.",
-        "Communicate with business context, not only code context.",
+        "Keep the system understandable.",
+        "Document the parts people will need again.",
+        "Treat support and deployment as part of the job.",
+        "Explain technical work in business language when needed.",
       ],
       profileCaption:
         "A smaller profile image appears here only as supporting context, not as the homepage focus.",
@@ -267,7 +267,7 @@ window.siteContent = {
         "A focused selection of software and systems work. The emphasis is on delivery, responsibility, and technical scope rather than visual volume on the homepage.",
       browseLabel: "Browse by category",
       note:
-        "These projects emphasize delivery, application support, infrastructure, data, documentation, and business workflow ownership, not only interface work.",
+        "These projects show the work around the software too: support, infrastructure, data, documentation, and business workflows.",
     },
     creative: {
       eyebrow: "Secondary path",
@@ -345,13 +345,13 @@ window.siteContent = {
       },
     },
     home: {
-      eyebrow: "Full-Stack-Systeme, Zuverlaessigkeit im Betrieb, Produktlieferung",
+      eyebrow: "Full-Stack-Entwicklung, Business-Systeme, IT-Support",
       heroName: "Edwin Njoroge",
       heroRole: "Full-Stack Developer",
       heroLead:
-        "Ich entwickle produktive Webanwendungen, Business-Systeme und den technischen Betrieb, der sie nach dem Launch nutzbar haelt.",
+        "Ich entwickle und betreue Business-Software, vom Anwendungscode bis zur Servereinrichtung dahinter.",
       heroBody:
-        "Meine Arbeit umfasst SaaS-Plattformen, ERP- und CRM-Systeme, Webanwendungen, mobile Loesungen, Cloud-Betrieb, Application Support und Workflow-Automation. Diese Website bleibt software-orientiert und zeigt zugleich die System- und Supportarbeit dahinter.",
+        "Ein grosser Teil meiner letzten Arbeit war sehr praktisch: ERP- und CRM-Systeme, SaaS-Plattformen, mobile Apps, Kunden-Onboarding, Datenbanken, Linux-Server, DNS, SSL und der Support, der nach dem Start kommt.",
       ctas: {
         primary: "Lebenslauf ansehen",
         secondary: "Projekte ansehen",
@@ -413,22 +413,22 @@ window.siteContent = {
     },
     about: {
       eyebrow: "Beruflicher Ueberblick",
-      title: "Software mit Breite und Disziplin entwickeln",
+      title: "Softwarearbeit mit praktischer IT-Seite",
       lead:
-        "Ich bin Full-Stack-Developer mit Erfahrung in Produktentwicklung, internen Business-Systemen, mobiler Umsetzung, Infrastruktur-Support und praktischen IT-Ablaeufen.",
+        "Ich bin Full-Stack-Developer und habe viel Zeit damit verbracht, die Systeme, die ich baue, auch einzurichten, zu betreuen und zu warten.",
       paragraphs: [
-        "Meine staerkste Arbeit liegt an der Schnittstelle von Softwarelieferung und operativer Verantwortung. Ich entwickle nicht nur Oberflaechen, sondern arbeite auch mit APIs, Datenstrukturen, Deployments, Datenbankadministration, DNS, SSL, Benutzereinrichtung, Dokumentation und dem alltaeglichen Betrieb stabiler Systeme.",
-        "In freiberuflichen und vertraglichen Projekten habe ich an SaaS-Produkten, ERP- und CRM-Systemen, Office- und Connectivity-Setups sowie Kundenplattformen gearbeitet, die sowohl technische Umsetzung als auch praktischen Business-Support verlangten.",
-        "Ich nutze auch AI-gestuetzte Entwicklung und Workflow-Automation mit Tools wie n8n, OpenClaw, Hermes, Paperclip und RAG-nahen Assistenten, um wiederholte Arbeit zu reduzieren, Dokumentation zu verbessern und Systeme zu verbinden.",
-        "Zusaetzlich habe ich einen kreativen Hintergrund in 3D, Motion und TVC-naher Produktion. Diese Erfahrung praegt weiterhin meinen Blick fuer Praesentation, Klarheit und visuelle Qualitaet, auch wenn Software die Hauptausrichtung dieser Website ist.",
+        "Ich habe mit einer Mischung aus Software, IT-Support und kreativer Arbeit fuer kleinere Kunden begonnen. Mit der Zeit wurde Software groesser, aber der Support-Teil blieb wichtig. In neueren Projekten habe ich Benutzer eingerichtet, Datenbanken geprueft, Server konfiguriert, Bugs behoben, Notizen fuer Mitarbeiter geschrieben und erklaert, wie Systeme genutzt werden sollen.",
+        "Diese Art von Arbeit passt gut zu mir: die Anwendung bauen und danach dafuer sorgen, dass sie im echten Betrieb funktioniert. MarketpulseOS und das WideOptions ERP/CRM-Projekt sind gute Beispiele. Sie brauchten Code, aber auch Datenmigration, DNS- und SSL-Einrichtung, Mitarbeiter-Onboarding, Dokumentation und laufende Fehlerbehebung.",
+        "AI-Tools nutze ich fuer konkrete Aufgaben: schnellere Entwicklung, Workflow-Automation mit n8n sowie Knowledge Assistants oder Agent-Tools wie OpenClaw, Hermes, Paperclip und RAG-basierte Systeme.",
+        "Einige aeltere 3D- und Motion-Arbeiten bleiben im Portfolio. Das ist heute nicht meine Hauptrichtung, aber es praegt weiterhin meinen Blick fuer Praesentation und klare visuelle Kommunikation.",
       ],
       principlesTitle: "Meine Arbeitsweise",
       principlesEyebrow: "Ansatz",
       principles: [
-        "Klarheit vor unnoetiger Komplexitaet.",
-        "Systeme nach dem Launch wartbar halten.",
-        "Infrastruktur, Support und Auslieferung als Teil des Produkts behandeln.",
-        "Mit Geschaeftskontext kommunizieren, nicht nur mit Code.",
+        "Das System verstaendlich halten.",
+        "Die Teile dokumentieren, die spaeter wieder gebraucht werden.",
+        "Support und Deployment als Teil der Arbeit behandeln.",
+        "Technische Arbeit bei Bedarf in Business-Sprache erklaeren.",
       ],
       profileCaption:
         "Das kleinere Profilbild erscheint hier nur als unterstuetzender Kontext und nicht als Schwerpunkt der Startseite.",
@@ -582,7 +582,7 @@ window.siteContent = {
         "Eine fokussierte Auswahl von Software- und Systemarbeit. Im Vordergrund stehen Umsetzung, Verantwortung und technischer Umfang.",
       browseLabel: "Nach Kategorie filtern",
       note:
-        "Diese Projekte zeigen Umsetzung, Application Support, Infrastruktur, Daten, Dokumentation und Verantwortung fuer Business-Workflows, nicht nur Interface-Arbeit.",
+        "Diese Projekte zeigen auch die Arbeit rund um die Software: Support, Infrastruktur, Daten, Dokumentation und Business-Workflows.",
     },
     creative: {
       eyebrow: "Sekundaerer Bereich",
