@@ -34,9 +34,9 @@ window.siteContent = {
       heroName: "Edwin Njoroge",
       heroRole: "Full-Stack Developer",
       heroLead:
-        "I build production web applications, internal platforms, and the infrastructure that keeps them stable.",
+        "I build production web applications, business systems, and the technical operations that keep them useful after launch.",
       heroBody:
-        "My work spans SaaS platforms, ERP and CRM systems, web applications, mobile delivery, and the operational layer behind them. This site focuses on software work first, with a separate creative path for selected 3D and TVC material.",
+        "My work spans SaaS platforms, ERP and CRM systems, web applications, mobile delivery, cloud operations, application support, and workflow automation. This site stays software-first while showing the systems and support work behind the products.",
       ctas: {
         primary: "View Resume",
         secondary: "Explore Projects",
@@ -49,8 +49,9 @@ window.siteContent = {
         "Node.js, React, PHP, Laravel, Flutter",
         "SaaS and ERP/CRM systems",
         "Linux operations and cloud administration",
+        "Application support, onboarding, and documentation",
         "Database design, migration, and support",
-        "Fast delivery with production ownership",
+        "AI-assisted delivery and workflow automation",
       ],
       strengthsTitle: "Selected strengths",
       strengthsEyebrow: "Capabilities",
@@ -61,11 +62,15 @@ window.siteContent = {
         },
         {
           title: "Infrastructure awareness",
-          body: "I am comfortable managing deployment, DNS, SSL, server maintenance, and database operations.",
+          body: "I am comfortable managing deployment, DNS, SSL, server maintenance, monitoring, and database operations.",
+        },
+        {
+          title: "Support-minded delivery",
+          body: "I set up users, document workflows, support business teams, and troubleshoot issues after systems go live.",
         },
         {
           title: "Cross-functional range",
-          body: "I can move between business systems, client projects, mobile workflows, and creative production contexts.",
+          body: "I can move between business systems, client projects, mobile workflows, automation, and creative production contexts.",
         },
       ],
       softwareNote:
@@ -75,7 +80,7 @@ window.siteContent = {
       pathways: [
         {
           title: "Software path",
-          body: "Use the Resume and Projects pages for product engineering, full-stack, and systems-focused roles.",
+          body: "Use the Resume and Projects pages for product engineering, full-stack, systems support, and application support roles.",
         },
         {
           title: "Creative path",
@@ -87,6 +92,7 @@ window.siteContent = {
       ctaPanelItems: [
         "Resume summary and downloadable CV",
         "Selected software case studies",
+        "Systems, support, and automation evidence",
         "Secondary creative portfolio path",
       ],
     },
@@ -94,10 +100,11 @@ window.siteContent = {
       eyebrow: "Professional overview",
       title: "Building software with breadth and discipline",
       lead:
-        "I am a full-stack developer with experience spanning product engineering, internal business systems, mobile delivery, and infrastructure support.",
+        "I am a full-stack developer with experience spanning product engineering, internal business systems, mobile delivery, infrastructure support, and practical IT operations.",
       paragraphs: [
-        "My strongest work sits at the intersection of software delivery and operational ownership. I do not just build interfaces: I also work with APIs, data structures, deployments, database administration, DNS, SSL, and the day-to-day realities of keeping systems reliable.",
-        "Across freelance and contract work, I have contributed to SaaS products, ERP and CRM systems, and client platforms that needed both technical execution and practical business understanding.",
+        "My strongest work sits at the intersection of software delivery and operational ownership. I do not just build interfaces: I also work with APIs, data structures, deployments, database administration, DNS, SSL, user setup, documentation, and the day-to-day realities of keeping systems reliable.",
+        "Across freelance and contract work, I have contributed to SaaS products, ERP and CRM systems, office and connectivity setups, and client platforms that needed both technical execution and practical business support.",
+        "I also use AI-assisted development and workflow automation tools such as n8n, OpenClaw, Hermes, Paperclip, and RAG-style assistants to reduce repetitive work, improve documentation, and connect systems.",
         "I also have a creative background in 3D, motion, and TVC-related production. That experience still influences how I think about presentation, clarity, and visual quality, even though software is the main direction of this site.",
       ],
       principlesTitle: "How I work",
@@ -105,7 +112,7 @@ window.siteContent = {
       principles: [
         "Build for clarity before complexity.",
         "Keep systems maintainable after launch.",
-        "Treat infrastructure and delivery as part of the product.",
+        "Treat infrastructure, support, and delivery as part of the product.",
         "Communicate with business context, not only code context.",
       ],
       profileCaption:
@@ -115,30 +122,32 @@ window.siteContent = {
       eyebrow: "Experience and skills",
       title: "Resume",
       summary:
-        "Senior full-stack engineer with 6+ years designing, shipping, and operating production systems across SaaS platforms, internal business systems, and cloud infrastructure.",
+        "Full-stack developer with 6+ years designing, shipping, and supporting production systems across SaaS platforms, internal business systems, cloud infrastructure, and application support.",
       experienceTitle: "Experience",
       experienceEyebrow: "Timeline",
       experience: [
         {
-          role: "Co-Founder & Technical Advisor",
+          role: "Co-Founder & Systems/Application Support Lead",
           company: "Qodesystems",
-          period: "03/2025 - Present",
+          period: "03/2025 - 09/2025",
           points: [
             "Co-founded and architected MarketpulseOS, a multi-tenant SaaS platform now serving live corporate clients.",
-            "Scaled back to an advisory role while retaining ownership of the production infrastructure, deployment workflows, and platform operations.",
-            "Provide targeted technical support, bug fixes, and small feature delivery beyond day-to-day product management.",
-            "Led notable contributions including the companion Flutter app and the Wideoptions Melamine migration onto the SaaS platform.",
+            "Set up production infrastructure, tenant environments, deployment workflows, DNS, SSL, database administration, monitoring, and operational support processes.",
+            "Onboarded SaaS tenants by configuring users, access rights, company settings, workflows, and operational setup.",
+            "Created support notes and user documentation to help staff and client teams use the system effectively.",
+            "Built key software components including platform modules, the companion Flutter app, and the Wideoptions Melamine migration onto the SaaS platform.",
+            "Since relocating to Germany in October 2025, I provide occasional remote advisory support for infrastructure and complex platform issues due to my original role in setting up the system architecture and production environment.",
           ],
         },
         {
           role: "Freelance Software Developer",
           company: "Wayrus Business Solutions Ltd",
-          period: "12/2025 - Present",
+          period: "12/2025 - 2026",
           points: [
             "Took an award-backed road-safety concept from a basic HTML site into a full mobile, backend, and frontend rebuild.",
             "Built and published Barabara Alerts for Android and iOS as a road-hazard reporting product.",
             "Developed the Laravel backend powering reporting workflows and operational management.",
-            "Currently completing the NextJS web frontend to close out the engagement.",
+            "Worked on the supporting NextJS web frontend and API-connected platform flow.",
           ],
         },
         {
@@ -148,6 +157,8 @@ window.siteContent = {
           points: [
             "Built Wideoptions' first ERP/CRM platform from the ground up with a Node.js backend and React frontend.",
             "Scaled the system to support 700+ retail and wholesale customers and 50+ staff members using it in daily operations.",
+            "Set up staff accounts, permissions, support workflows, and system usage processes for business teams.",
+            "Created user guidance and internal documentation to support adoption and reduce repeated support questions.",
             "Led migration of 5,000+ customer, supplier, product, and inventory records with zero data loss.",
             "Reduced paperwork by 80% and sustained 99% uptime through server management, database maintenance, and monitoring.",
           ],
@@ -170,6 +181,7 @@ window.siteContent = {
           points: [
             "Delivered mixed freelance and contract work across software development, 3D animation, and motion graphics.",
             "Built and continue to maintain Lockdown Ice, an API-driven Laravel commerce platform with companion Flutter apps for Android and iOS.",
+            "Supported clients with hosting, domains, software setup, basic troubleshooting, and website maintenance.",
             "Contributed creative work for brands including Coop Bank and Doshi Group alongside software client delivery.",
             "Transitioned into a stronger full-time software focus by 2024 while retaining selected long-term projects.",
           ],
@@ -183,7 +195,7 @@ window.siteContent = {
           items: ["PHP/Laravel", "Node.js", "Multi-tenant SaaS architecture", "REST APIs"],
         },
         {
-          title: "Cloud, data, and operations",
+          title: "Cloud, systems, and support",
           items: [
             "Linux administration",
             "Oracle Cloud",
@@ -195,10 +207,12 @@ window.siteContent = {
             "Cloudflare",
             "DNS",
             "Security audits",
+            "User onboarding",
+            "Technical documentation",
           ],
         },
         {
-          title: "Frontend and workflow",
+          title: "Frontend, mobile, and automation",
           items: [
             "Flutter",
             "React",
@@ -208,6 +222,11 @@ window.siteContent = {
             "Git",
             "Staging/testing pipelines",
             "AI-assisted development",
+            "n8n",
+            "OpenClaw",
+            "Hermes",
+            "Paperclip",
+            "RAG assistants",
           ],
         },
       ],
@@ -248,7 +267,7 @@ window.siteContent = {
         "A focused selection of software and systems work. The emphasis is on delivery, responsibility, and technical scope rather than visual volume on the homepage.",
       browseLabel: "Browse by category",
       note:
-        "If you need deeper walkthroughs, architecture context, or code samples, I can provide them directly during applications or interviews.",
+        "These projects emphasize delivery, application support, infrastructure, data, documentation, and business workflow ownership, not only interface work.",
     },
     creative: {
       eyebrow: "Secondary path",
@@ -263,14 +282,20 @@ window.siteContent = {
       eyebrow: "Professional contact",
       title: "Get in touch",
       intro:
-        "For software roles, product work, contract projects, or selected creative opportunities, the best initial contact is email.",
+        "For software, IT systems, application support, automation, or selected creative opportunities, the best initial contact is email.",
       emailLabel: "Email",
       emailValue: "edkimnjoroge@gmail.com",
+      namePlaceholder: "Name *",
+      emailPlaceholder: "Email *",
+      phonePlaceholder: "Phone",
+      messagePlaceholder: "Message *",
+      submitButton: "Email Edwin",
       linksTitle: "What I can share",
       links: [
         "Current CV as PDF",
-        "Tailored role-specific CVs on request",
-        "Software project walkthroughs on request",
+        "Role-specific CV versions for software or IT systems roles",
+        "Software and systems project walkthroughs",
+        "Application support and automation context",
         "Creative work references when relevant",
       ],
       actions: [
@@ -286,7 +311,7 @@ window.siteContent = {
         },
       ],
       note:
-        "Public profile links can be added later once the final URLs are ready.",
+        "For role-specific CVs or deeper project details, email is the best first step.",
     },
   },
   de: {
@@ -324,9 +349,9 @@ window.siteContent = {
       heroName: "Edwin Njoroge",
       heroRole: "Full-Stack Developer",
       heroLead:
-        "Ich entwickle produktive Webanwendungen, interne Plattformen und die Infrastruktur, die sie stabil haelt.",
+        "Ich entwickle produktive Webanwendungen, Business-Systeme und den technischen Betrieb, der sie nach dem Launch nutzbar haelt.",
       heroBody:
-        "Meine Arbeit umfasst SaaS-Plattformen, ERP- und CRM-Systeme, Webanwendungen, mobile Loesungen und die operative Ebene dahinter. Diese Website stellt zuerst Software in den Mittelpunkt und bietet zusaetzlich einen separaten kreativen Bereich fuer ausgewaehlte 3D- und TVC-Arbeiten.",
+        "Meine Arbeit umfasst SaaS-Plattformen, ERP- und CRM-Systeme, Webanwendungen, mobile Loesungen, Cloud-Betrieb, Application Support und Workflow-Automation. Diese Website bleibt software-orientiert und zeigt zugleich die System- und Supportarbeit dahinter.",
       ctas: {
         primary: "Lebenslauf ansehen",
         secondary: "Projekte ansehen",
@@ -339,8 +364,9 @@ window.siteContent = {
         "Node.js, React, PHP, Laravel, Flutter",
         "SaaS- und ERP/CRM-Systeme",
         "Linux-Betrieb und Cloud-Administration",
+        "Application Support, Onboarding und Dokumentation",
         "Datenbankdesign, Migration und Support",
-        "Schnelle Umsetzung mit Verantwortung fuer Produktion",
+        "AI-gestuetzte Umsetzung und Workflow-Automation",
       ],
       strengthsTitle: "Ausgewaehlte Staerken",
       strengthsEyebrow: "Staerken",
@@ -351,11 +377,15 @@ window.siteContent = {
         },
         {
           title: "Verstaendnis fuer Infrastruktur",
-          body: "Ich uebernehme auch Deployment, DNS, SSL, Serverwartung und Datenbankbetrieb.",
+          body: "Ich uebernehme auch Deployment, DNS, SSL, Serverwartung, Monitoring und Datenbankbetrieb.",
+        },
+        {
+          title: "Supportorientierte Umsetzung",
+          body: "Ich richte Benutzer ein, dokumentiere Workflows, unterstuetze Business-Teams und behebe Probleme nach dem Launch.",
         },
         {
           title: "Breite technische Reichweite",
-          body: "Ich bewege mich zwischen Business-Systemen, Kundenprojekten, mobilen Workflows und kreativen Produktionskontexten.",
+          body: "Ich bewege mich zwischen Business-Systemen, Kundenprojekten, mobilen Workflows, Automation und kreativen Produktionskontexten.",
         },
       ],
       softwareNote:
@@ -365,7 +395,7 @@ window.siteContent = {
       pathways: [
         {
           title: "Software-Bereich",
-          body: "Nutze Lebenslauf und Projekte fuer Produktentwicklung, Full-Stack- und systemorientierte Rollen.",
+          body: "Nutze Lebenslauf und Projekte fuer Produktentwicklung, Full-Stack-, Systems-Support- und Application-Support-Rollen.",
         },
         {
           title: "Kreativer Bereich",
@@ -377,6 +407,7 @@ window.siteContent = {
       ctaPanelItems: [
         "Lebenslauf-Uebersicht und herunterladbarer CV",
         "Ausgewaehlte Software-Fallstudien",
+        "Nachweise fuer Systeme, Support und Automation",
         "Separater kreativer Portfolio-Pfad",
       ],
     },
@@ -384,10 +415,11 @@ window.siteContent = {
       eyebrow: "Beruflicher Ueberblick",
       title: "Software mit Breite und Disziplin entwickeln",
       lead:
-        "Ich bin Full-Stack-Developer mit Erfahrung in Produktentwicklung, internen Business-Systemen, mobiler Umsetzung und technischem Betrieb.",
+        "Ich bin Full-Stack-Developer mit Erfahrung in Produktentwicklung, internen Business-Systemen, mobiler Umsetzung, Infrastruktur-Support und praktischen IT-Ablaeufen.",
       paragraphs: [
-        "Meine staerkste Arbeit liegt an der Schnittstelle von Softwarelieferung und operativer Verantwortung. Ich entwickle nicht nur Oberflaechen, sondern arbeite auch mit APIs, Datenstrukturen, Deployments, Datenbankadministration, DNS, SSL und dem alltaeglichen Betrieb stabiler Systeme.",
-        "In freiberuflichen und vertraglichen Projekten habe ich an SaaS-Produkten, ERP- und CRM-Systemen sowie Kundenplattformen gearbeitet, die sowohl technische Umsetzung als auch praktisches Geschaeftsverstaendnis verlangten.",
+        "Meine staerkste Arbeit liegt an der Schnittstelle von Softwarelieferung und operativer Verantwortung. Ich entwickle nicht nur Oberflaechen, sondern arbeite auch mit APIs, Datenstrukturen, Deployments, Datenbankadministration, DNS, SSL, Benutzereinrichtung, Dokumentation und dem alltaeglichen Betrieb stabiler Systeme.",
+        "In freiberuflichen und vertraglichen Projekten habe ich an SaaS-Produkten, ERP- und CRM-Systemen, Office- und Connectivity-Setups sowie Kundenplattformen gearbeitet, die sowohl technische Umsetzung als auch praktischen Business-Support verlangten.",
+        "Ich nutze auch AI-gestuetzte Entwicklung und Workflow-Automation mit Tools wie n8n, OpenClaw, Hermes, Paperclip und RAG-nahen Assistenten, um wiederholte Arbeit zu reduzieren, Dokumentation zu verbessern und Systeme zu verbinden.",
         "Zusaetzlich habe ich einen kreativen Hintergrund in 3D, Motion und TVC-naher Produktion. Diese Erfahrung praegt weiterhin meinen Blick fuer Praesentation, Klarheit und visuelle Qualitaet, auch wenn Software die Hauptausrichtung dieser Website ist.",
       ],
       principlesTitle: "Meine Arbeitsweise",
@@ -395,7 +427,7 @@ window.siteContent = {
       principles: [
         "Klarheit vor unnoetiger Komplexitaet.",
         "Systeme nach dem Launch wartbar halten.",
-        "Infrastruktur und Auslieferung als Teil des Produkts behandeln.",
+        "Infrastruktur, Support und Auslieferung als Teil des Produkts behandeln.",
         "Mit Geschaeftskontext kommunizieren, nicht nur mit Code.",
       ],
       profileCaption:
@@ -405,30 +437,32 @@ window.siteContent = {
       eyebrow: "Erfahrung und Kompetenzen",
       title: "Lebenslauf",
       summary:
-        "Senior Full-Stack-Engineer mit ueber 6 Jahren Erfahrung in Konzeption, Auslieferung und Betrieb produktiver Systeme ueber SaaS-Plattformen, interne Business-Systeme und Cloud-Infrastruktur hinweg.",
+        "Full-Stack-Developer mit ueber 6 Jahren Erfahrung in Konzeption, Auslieferung und Support produktiver Systeme ueber SaaS-Plattformen, interne Business-Systeme, Cloud-Infrastruktur und Application Support hinweg.",
       experienceTitle: "Berufserfahrung",
       experienceEyebrow: "Verlauf",
       experience: [
         {
-          role: "Co-Founder & Technical Advisor",
+          role: "Co-Founder & Systems/Application Support Lead",
           company: "Qodesystems",
-          period: "03/2025 - Heute",
+          period: "03/2025 - 09/2025",
           points: [
             "MarketpulseOS als mandantenfaehige SaaS-Plattform mit produktiven Unternehmenskunden mitgegruendet und architektonisch aufgebaut.",
-            "In eine beratende Rolle gewechselt und weiterhin Verantwortung fuer Produktionsinfrastruktur, Deployments und Plattformbetrieb behalten.",
-            "Gezielte technische Unterstuetzung, Bugfixes und kleinere Feature-Erweiterungen fuer den laufenden SaaS-Betrieb geliefert.",
-            "Wichtige Beitraege waren unter anderem die Flutter-App sowie die Migration von Wideoptions Melamine auf die Plattform.",
+            "Produktionsinfrastruktur, Mandantenumgebungen, Deployment-Workflows, DNS, SSL, Datenbankadministration, Monitoring und Supportprozesse eingerichtet.",
+            "SaaS-Mandanten durch Benutzer, Rechte, Unternehmenseinstellungen, Workflows und operative Konfigurationen onboarded.",
+            "Supportnotizen und Benutzerdokumentation erstellt, damit Mitarbeiter und Kundenteams das System effektiv nutzen koennen.",
+            "Wichtige Softwareteile gebaut, darunter Plattformmodule, die Flutter-App und die Migration von Wideoptions Melamine auf die SaaS-Plattform.",
+            "Seit meinem Umzug nach Deutschland im Oktober 2025 leiste ich gelegentlichen Remote-Advisory-Support fuer Infrastruktur und komplexe Plattformthemen, da ich die Systemarchitektur und Produktionsumgebung urspruenglich eingerichtet habe.",
           ],
         },
         {
           role: "Freelance Software Developer",
           company: "Wayrus Business Solutions Ltd",
-          period: "12/2025 - Heute",
+          period: "12/2025 - 2026",
           points: [
             "Ein ausgezeichnetes Verkehrssicherheitskonzept von einer einfachen HTML-Seite zu einem kompletten Mobile-, Backend- und Frontend-Produkt weiterentwickelt.",
             "Barabara Alerts fuer Android und iOS als App zur Meldung von Strassengefahren gebaut und veroeffentlicht.",
             "Das Laravel-Backend fuer Meldungs- und Betriebsworkflows umgesetzt.",
-            "Aktuell das NextJS-Webfrontend zur Fertigstellung des Projekts abgeschlossen bzw. in der Schlussphase.",
+            "Am unterstuetzenden NextJS-Webfrontend und dem API-verbundenen Plattformfluss gearbeitet.",
           ],
         },
         {
@@ -438,6 +472,8 @@ window.siteContent = {
           points: [
             "Das erste ERP/CRM-System des Unternehmens mit Node.js-Backend und React-Frontend von Grund auf aufgebaut.",
             "Die Plattform fuer 700+ Retail- und Grosshandelskunden sowie 50+ Mitarbeitende im Tagesbetrieb skaliert.",
+            "Mitarbeiterkonten, Berechtigungen, Support-Workflows und Systemnutzungsprozesse fuer Business-Teams eingerichtet.",
+            "Benutzerdokumentation und interne Hinweise erstellt, um die Einfuehrung zu unterstuetzen und wiederholte Supportfragen zu reduzieren.",
             "Die Migration von 5.000+ Kunden-, Lieferanten-, Produkt- und Inventardatensaetzen ohne Datenverlust geleitet.",
             "Papierarbeit um 80% reduziert und 99% Uptime durch Serverbetrieb, Datenbankwartung und Monitoring gesichert.",
           ],
@@ -460,6 +496,7 @@ window.siteContent = {
           points: [
             "Freelance- und Vertragsarbeit in Softwareentwicklung, 3D-Animation und Motion Graphics umgesetzt.",
             "Lockdown Ice als API-getriebene Laravel-Commerce-Plattform mit begleitenden Flutter-Apps fuer Android und iOS aufgebaut und weiter betreut.",
+            "Kunden bei Hosting, Domains, Softwareeinrichtung, grundlegender Fehlerbehebung und Website-Wartung unterstuetzt.",
             "Kreative Arbeiten fuer Marken wie Coop Bank und Doshi Group parallel zu Softwareprojekten geliefert.",
             "Bis 2024 schrittweise in einen staerkeren Vollzeitfokus auf Softwareentwicklung uebergegangen.",
           ],
@@ -473,7 +510,7 @@ window.siteContent = {
           items: ["PHP/Laravel", "Node.js", "Mandantenfaehige SaaS-Architektur", "REST APIs"],
         },
         {
-          title: "Cloud, Daten und Betrieb",
+          title: "Cloud, Systeme und Support",
           items: [
             "Linux-Administration",
             "Oracle Cloud",
@@ -485,10 +522,12 @@ window.siteContent = {
             "Cloudflare",
             "DNS",
             "Security Audits",
+            "Benutzer-Onboarding",
+            "Technische Dokumentation",
           ],
         },
         {
-          title: "Frontend und Workflow",
+          title: "Frontend, Mobile und Automation",
           items: [
             "Flutter",
             "React",
@@ -498,6 +537,11 @@ window.siteContent = {
             "Git",
             "Staging-/Test-Pipelines",
             "AI-gestuetzte Entwicklung",
+            "n8n",
+            "OpenClaw",
+            "Hermes",
+            "Paperclip",
+            "RAG-Assistenten",
           ],
         },
       ],
@@ -538,7 +582,7 @@ window.siteContent = {
         "Eine fokussierte Auswahl von Software- und Systemarbeit. Im Vordergrund stehen Umsetzung, Verantwortung und technischer Umfang.",
       browseLabel: "Nach Kategorie filtern",
       note:
-        "Wenn tiefere Walkthroughs, Architekturkontext oder Codebeispiele benoetigt werden, kann ich diese direkt in Bewerbungen oder Interviews bereitstellen.",
+        "Diese Projekte zeigen Umsetzung, Application Support, Infrastruktur, Daten, Dokumentation und Verantwortung fuer Business-Workflows, nicht nur Interface-Arbeit.",
     },
     creative: {
       eyebrow: "Sekundaerer Bereich",
@@ -553,14 +597,20 @@ window.siteContent = {
       eyebrow: "Beruflicher Kontakt",
       title: "Kontakt",
       intro:
-        "Fuer Software-Rollen, Produktarbeit, Vertragsprojekte oder ausgewaehlte kreative Chancen ist E-Mail der beste erste Kontaktweg.",
+        "Fuer Software-, IT-Systems-, Application-Support-, Automation- oder ausgewaehlte kreative Chancen ist E-Mail der beste erste Kontaktweg.",
       emailLabel: "E-Mail",
       emailValue: "edkimnjoroge@gmail.com",
+      namePlaceholder: "Name *",
+      emailPlaceholder: "E-Mail *",
+      phonePlaceholder: "Telefon",
+      messagePlaceholder: "Nachricht *",
+      submitButton: "E-Mail senden",
       linksTitle: "Was ich teilen kann",
       links: [
         "Aktueller CV als PDF",
-        "Rollenbezogene CV-Versionen auf Anfrage",
-        "Software-Projektwalkthroughs auf Anfrage",
+        "Rollenbezogene CV-Versionen fuer Software- oder IT-Systems-Rollen",
+        "Software- und Systems-Projektwalkthroughs",
+        "Kontext zu Application Support und Automation",
         "Kreative Referenzen bei Bedarf",
       ],
       actions: [
@@ -576,7 +626,7 @@ window.siteContent = {
         },
       ],
       note:
-        "Oeffentliche Profil-Links koennen spaeter ergaenzt werden, sobald die finalen URLs feststehen.",
+        "Fuer rollenbezogene CVs oder tiefere Projektdetails ist E-Mail der beste erste Schritt.",
     },
   },
 };

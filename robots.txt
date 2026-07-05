@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://edkimnjoroge.pages.dev/sitemap.xml
+Sitemap: https://edkimnjoroge.github.io/portfolio/sitemap.xml

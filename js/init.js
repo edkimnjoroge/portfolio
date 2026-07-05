@@ -223,29 +223,19 @@
 				var emailto     = form.data('email');
 
 				spanSuccess.empty();
-				if(name === ''|| email === ''|| message === '' || emailto === '' || phone === ''){
+				if(name === ''|| email === ''|| message === '' || emailto === ''){
 					$('.empty_notice').slideDown(500).delay(2000).slideUp(500);
 				}
 				else{
-					$.post(
-						"modal/contact.php",
-						{
-							ajax_name: 		name,
-							ajax_email: 	email,
-							ajax_emailto: 	emailto,
-							ajax_message: 	message,
-							ajax_phone: 	phone
-						}, function(data) {
-							spanSuccess.append(data);
-							if(spanSuccess.find(".contact_error").length){
-								spanSuccess.slideDown(500).delay(2000).slideUp(500);		
-							}else{
-								spanSuccess.append("<span class='contact_success'>" + success + "</span>");
-								spanSuccess.slideDown(500).delay(4000).slideUp(500);
-							}
-							if(data === ''){ form[0].reset();}
-						}
-					);
+					var subject = encodeURIComponent("Portfolio contact from " + name);
+					var body = "Name: " + name + "\nEmail: " + email;
+					if(phone !== ''){
+						body += "\nPhone: " + phone;
+					}
+					body += "\n\n" + message;
+					window.location.href = "mailto:" + emailto + "?subject=" + subject + "&body=" + encodeURIComponent(body);
+					spanSuccess.append("<span class='contact_success'>" + success + "</span>");
+					spanSuccess.slideDown(500).delay(4000).slideUp(500);
 				}
 				return false; 
 			});

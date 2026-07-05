@@ -146,17 +146,18 @@
         coverImage: archive + "2025/10/Screenshot_21-10-2025_185219_marketpulseos.com_.jpeg",
         title: { en: "Marketpulse OS: SaaS Product Architecture and Operations" },
         kicker: { en: "Multi-tenant SaaS product" },
-        summary: { en: "Product architecture and full lifecycle ownership for a modular SaaS platform powering HRM, FMS, POS, and manufacturing ERP workflows." },
+        summary: { en: "Product architecture, tenant setup, infrastructure, and application support for a modular SaaS platform powering HRM, FMS, POS, and manufacturing ERP workflows." },
         fullDescription: {
           en: [
             "I led the product architecture and development work behind MarketpulseOS at Qodesystems LTD. The platform is a scalable, modular SaaS system based on a customized Perfex CRM foundation and supports several operational products.",
-            "The work covered the full lifecycle: application development, client onboarding, deployment, SSL and DNS configuration, database administration, maintenance, and support for companies using the platform in day-to-day operations.",
-            "This is the strongest software-focused case study here because it combines product engineering, production responsibility, and business workflow ownership."
+            "The work covered the full lifecycle: application development, client onboarding, tenant configuration, user setup, deployment, SSL and DNS configuration, database administration, monitoring, maintenance, and support for companies using the platform in day-to-day operations.",
+            "I also created support notes and operational documentation so staff and client teams could use the system more confidently after rollout.",
+            "This is the strongest software-focused case study here because it combines product engineering, production responsibility, application support, and business workflow ownership."
           ],
         },
-        role: { en: "Product architecture, full-stack development, deployment, infrastructure, database administration, and support." },
-        stackOrTools: { en: "Perfex CRM customization, PHP, MySQL, JavaScript, cloud hosting, DNS, SSL, SaaS operations" },
-        outcome: { en: "Delivered and maintained a production SaaS platform with live demo, business modules, and client-facing deployment paths." },
+        role: { en: "Product architecture, full-stack development, tenant onboarding, deployment, infrastructure, database administration, documentation, and support." },
+        stackOrTools: { en: "Perfex CRM customization, PHP, MySQL, JavaScript, cloud hosting, DNS, SSL, monitoring, SaaS operations" },
+        outcome: { en: "Delivered and supported a production SaaS platform with live demo, business modules, configured tenant environments, and client-facing deployment paths." },
         links: [
           { label: { en: "Qodesystems" }, url: "https://qodesystems.com" },
           { label: { en: "Live demo" }, url: "https://demo.marketpulseos.com" },
@@ -179,17 +180,18 @@
         coverImage: archive + "2025/06/Screenshot-2025-06-24-014136.jpg",
         title: { en: "WideOptions ERP/HRM/CRM" },
         kicker: { en: "Enterprise management system" },
-        summary: { en: "A React and Node.js management platform built to streamline ERP, HRM, CRM, inventory, sales, and operational workflows for WideOptions Melamine." },
+        summary: { en: "A React and Node.js management platform built, rolled out, documented, and supported to streamline ERP, HRM, CRM, inventory, sales, and operational workflows for WideOptions Melamine." },
         fullDescription: {
           en: [
             "I developed the WideOptions Management System as a serious internal business platform rather than a simple web app. It replaced fragmented operations with a central ERP, HRM, and CRM direction.",
             "The front end was built in React for a responsive and interactive operations surface, while the Node.js backend handled business logic, data processing, and integrations across the system.",
-            "The project also included migration-minded work around business records and operational continuity, which made the delivery closer to a production rollout than a visual prototype."
+            "Beyond development, I set up staff users, roles, permissions, and support workflows, then created documentation and guidance to help teams adopt the system.",
+            "The project also included migration-minded work around business records and operational continuity, which made the delivery closer to a production rollout and application support engagement than a visual prototype."
           ],
         },
-        role: { en: "Full-stack delivery, workflow design, data migration support, and internal platform rollout." },
-        stackOrTools: { en: "React, Node.js, MySQL, ERP, HRM, CRM, operational dashboards" },
-        outcome: { en: "Consolidated business workflows into one management platform for daily company use." },
+        role: { en: "Full-stack delivery, workflow design, staff setup, documentation, data migration support, troubleshooting, and internal platform rollout." },
+        stackOrTools: { en: "React, Node.js, MySQL, ERP, HRM, CRM, operational dashboards, user roles, support documentation" },
+        outcome: { en: "Consolidated business workflows into one management platform for daily company use, with staff setup and support processes in place." },
         links: [
           { label: { en: "Live ERP" }, url: "https://erp.wideoptions.co.ke/" },
           { label: { en: "Brand guide PDF" }, url: archive + "2025/06/WIDE-OPTIONS-BRANDGUIDE.pdf" },
@@ -245,17 +247,17 @@
         coverImage: "assets/images/barabara-alerts-cover.svg",
         title: { en: "Barabara Alerts" },
         kicker: { en: "Road-hazard reporting app with Laravel backend" },
-        summary: { en: "A mobile-first road-hazard reporting product delivered with Android and iOS apps, a Laravel backend, and a supporting NextJS frontend." },
+        summary: { en: "A mobile-first road-hazard reporting product delivered with Android and iOS apps, a Laravel backend, APIs, and a supporting NextJS frontend." },
         fullDescription: {
           en: [
             "Barabara Alerts started as a road-safety concept with an existing basic HTML website, then expanded into a wider mobile, backend, and frontend product delivery engagement.",
             "I built and published the mobile app for Android and iOS, while the Laravel backend handled reporting workflows, operational coordination, and the supporting API layer.",
-            "The engagement also included a NextJS web frontend to complete the broader platform and move the idea beyond a simple brochure site."
+            "The engagement also included API design and a NextJS web frontend to complete the broader platform and move the idea beyond a simple brochure site."
           ],
         },
         role: { en: "Mobile product delivery, Laravel backend implementation, API workflow design, and supporting web-platform rollout." },
         stackOrTools: { en: "Laravel, Android, iOS, NextJS, APIs, product delivery" },
-        outcome: { en: "Took an early concept into a working mobile product with a production-ready backend and supporting web platform." },
+        outcome: { en: "Took an early concept into a working mobile product with a production-ready backend, published app presence, and supporting web platform." },
         links: [
           { label: { en: "Google Play" }, url: "https://play.google.com/store/search?q=barabara%20alerts&c=apps" },
         ],
@@ -275,11 +277,12 @@
           en: [
             "I developed Lockdown Ice as an online shopping platform for a beverage retail business in Kenya. The project combined a Laravel-powered website with mobile distribution for Android and iOS.",
             "The Laravel backend provided a maintainable foundation and API surface for the Flutter applications, while the storefront focused on making browsing and ordering feel direct for customers.",
+            "The project also reflects long-term maintenance: hosting, updates, troubleshooting, and keeping web and mobile experiences aligned after launch.",
             "This project keeps the software portfolio connected to real consumer-facing delivery rather than only internal business systems."
           ],
         },
-        role: { en: "E-commerce implementation, API-backed mobile workflow support, and storefront presentation." },
-        stackOrTools: { en: "Laravel, Flutter, e-commerce, API integration, web and mobile delivery" },
+        role: { en: "E-commerce implementation, API-backed mobile workflow support, maintenance, and storefront presentation." },
+        stackOrTools: { en: "Laravel, Flutter, e-commerce, API integration, hosting, maintenance, web and mobile delivery" },
         outcome: { en: "Delivered a web and mobile commerce path for the Lockdown Ice brand." },
         links: [
           { label: { en: "Visit website" }, url: "https://lockdownice.com/" },
