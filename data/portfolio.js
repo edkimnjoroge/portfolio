@@ -177,9 +177,6 @@
         ],
         gallery: [
           image("2025/10/Screenshot_21-10-2025_185219_marketpulseos.com_.jpeg", "MarketpulseOS public product screen", "Public-facing screen from the MarketpulseOS product site."),
-          image("2025/10/Screenshot_21-10-2025_195633_demo.marketpulseos.com_.jpeg", "MarketpulseOS demo screen", "Demo environment screen showing the working product."),
-          image("2025/10/Screenshot_21-10-2025_195524_demo.marketpulseos.com_.jpeg", "MarketpulseOS module screen", "Operational module screen from the platform workflow."),
-          image("2025/10/Screenshot_21-10-2025_195432_demo.marketpulseos.com_.jpeg", "MarketpulseOS dashboard screen", "Dashboard view of the live platform."),
         ],
         relatedItems: ["wideoptions-erp-hrm-crm", "barabara-alerts"],
       },
