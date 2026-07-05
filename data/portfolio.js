@@ -147,8 +147,8 @@
         title: { en: "MarketpulseOS: SaaS Product Architecture and Operations", de: "MarketpulseOS: SaaS-Produktarchitektur und Betrieb" },
         kicker: { en: "SaaS platform architecture", de: "SaaS-Plattform-Architektur" },
         summary: {
-          en: "SaaS Platform Architecture - PHP/CodeIgniter - MySQL - Flutter - Linux - AWS",
-          de: "SaaS-Plattform-Architektur - PHP/CodeIgniter - MySQL - Flutter - Linux - AWS",
+          en: "SaaS Platform Architecture - PHP/CodeIgniter - MySQL - Flutter - Linux - Oracle Cloud",
+          de: "SaaS-Plattform-Architektur - PHP/CodeIgniter - MySQL - Flutter - Linux - Oracle Cloud",
         },
         fullDescription: {
           en: [
@@ -166,7 +166,7 @@
           en: "SaaS architecture, full-stack development, Flutter app delivery, deployment, client onboarding, database administration, and support.",
           de: "SaaS-Architektur, Full-Stack-Entwicklung, Flutter-App, Deployment, Kunden-Onboarding, Datenbank-Administration und Support.",
         },
-        stackOrTools: { en: "PHP/CodeIgniter, MySQL, Flutter, Linux, AWS, DNS, SSL, monitoring", de: "PHP/CodeIgniter, MySQL, Flutter, Linux, AWS, DNS, SSL, Monitoring" },
+        stackOrTools: { en: "PHP/CodeIgniter, MySQL, Flutter, Linux, Oracle Cloud, DNS, SSL, monitoring", de: "PHP/CodeIgniter, MySQL, Flutter, Linux, Oracle Cloud, DNS, SSL, Monitoring" },
         outcome: {
           en: "Supported a production SaaS platform and migrated Wideoptions business data to MarketpulseOS with zero data loss.",
           de: "Produktive SaaS-Plattform unterstuetzt und Wideoptions-Geschaeftsdaten ohne Datenverlust zu MarketpulseOS migriert.",
@@ -288,9 +288,7 @@
           { label: { en: "iOS app" }, url: "https://apps.apple.com/us/app/lockdownice/id6447322560" },
         ],
         gallery: [
-          image("2025/06/slider2.jpg", "Lockdown Ice homepage screenshot", "Homepage view of the Lockdown Ice online shop."),
           image("2025/06/Screenshot_24-6-2025_2029_lockdownice.com_-scaled.jpeg", "Lockdown Ice website screenshot", "Archived screenshot from the online shop."),
-          image("2023/06/slider1.jpg", "Lockdown Ice storefront banner", "Storefront banner used in the Lockdown Ice website."),
         ],
         relatedItems: ["kritiplacejoint", "marketpulse-os-saas-product-architecture-and-operations"],
       },
@@ -318,12 +316,8 @@
         outcome: { en: "Delivered a business website with an interactive pricing workflow for customer enquiries.", de: "Business-Website mit interaktivem Preis-Workflow fuer Kundenanfragen geliefert." },
         links: [
           { label: { en: "Live website" }, url: "https://kritiplacejoint.com/" },
-          { label: { en: "Project archive" }, url: "https://edkimfx.com/portfolio-archive/kritiplacejoint/" },
         ],
-        gallery: [
-          image("2020/01/Screenshot-2025-06-24-004309.jpg", "Kritiplacejoint website screenshot", "Homepage screenshot of the bakery website."),
-          image("2020/01/frederick-medina-J8uTXtVbEbw-unsplash-scaled-1.jpg", "Kritiplacejoint bakery background", "Supporting bakery background image used in the site design."),
-        ],
+        gallery: [],
         relatedItems: ["lockdown-ice-online-shop", "barabara-alerts"],
       },
       {
