@@ -144,20 +144,33 @@
         categories: ["website-apps"],
         year: "2025",
         coverImage: archive + "2025/10/Screenshot_21-10-2025_185219_marketpulseos.com_.jpeg",
-        title: { en: "Marketpulse OS: SaaS Product Architecture and Operations" },
-        kicker: { en: "Multi-tenant SaaS product" },
-        summary: { en: "Product architecture, tenant setup, infrastructure, and application support for a modular SaaS platform powering HRM, FMS, POS, and manufacturing ERP workflows." },
+        title: { en: "MarketpulseOS: SaaS Product Architecture and Operations", de: "MarketpulseOS: SaaS-Produktarchitektur und Betrieb" },
+        kicker: { en: "SaaS platform architecture", de: "SaaS-Plattform-Architektur" },
+        summary: {
+          en: "SaaS Platform Architecture - PHP/CodeIgniter - MySQL - Flutter - Linux - AWS",
+          de: "SaaS-Plattform-Architektur - PHP/CodeIgniter - MySQL - Flutter - Linux - AWS",
+        },
         fullDescription: {
           en: [
-            "I led the product architecture and development work behind MarketpulseOS at Qodesystems LTD. The platform is a scalable, modular SaaS system based on a customized Perfex CRM foundation and supports several operational products.",
-            "The work covered the full lifecycle: application development, client onboarding, tenant configuration, user setup, deployment, SSL and DNS configuration, database administration, monitoring, maintenance, and support for companies using the platform in day-to-day operations.",
-            "I also created support notes and operational documentation so staff and client teams could use the system more confidently after rollout.",
-            "This is the strongest software-focused case study here because it combines product engineering, production responsibility, application support, and business workflow ownership."
+            "I architected and built MarketpulseOS from the founding stage: a multi-tenant SaaS platform now serving 5+ corporate clients with ERP, CRM, HRM, and POS modules.",
+            "The work covered full lifecycle delivery: application development, client onboarding, deployment, SSL/DNS configuration, database administration, and ongoing support. I also built the companion Flutter app for mobile access.",
+            "Key outcome: Migrated Wideoptions Melamine, 5,000+ records, from legacy system to MarketpulseOS with zero data loss."
+          ],
+          de: [
+            "Ich habe MarketpulseOS von der Gruendungsphase an entworfen und aufgebaut: eine Multi-Tenant-SaaS-Plattform mit aktuell 5+ Firmenkunden und ERP-, CRM-, HRM- und POS-Modulen.",
+            "Die Arbeit umfasste den kompletten Lebenszyklus: Anwendungs-Entwicklung, Kunden-Onboarding, Deployment, SSL/DNS-Konfiguration, Datenbank-Administration und laufenden Support. Ich habe auch die begleitende Flutter-App fuer mobilen Zugriff entwickelt.",
+            "Wichtigstes Ergebnis: Migration von Wideoptions Melamine mit 5.000+ Datensaetzen von Legacy-System auf MarketpulseOS mit Null Datenverlust."
           ],
         },
-        role: { en: "Product architecture, full-stack development, tenant onboarding, deployment, infrastructure, database administration, documentation, and support." },
-        stackOrTools: { en: "Perfex CRM customization, PHP, MySQL, JavaScript, cloud hosting, DNS, SSL, monitoring, SaaS operations" },
-        outcome: { en: "Delivered and supported a production SaaS platform with live demo, business modules, configured tenant environments, and client-facing deployment paths." },
+        role: {
+          en: "SaaS architecture, full-stack development, Flutter app delivery, deployment, client onboarding, database administration, and support.",
+          de: "SaaS-Architektur, Full-Stack-Entwicklung, Flutter-App, Deployment, Kunden-Onboarding, Datenbank-Administration und Support.",
+        },
+        stackOrTools: { en: "PHP/CodeIgniter, MySQL, Flutter, Linux, AWS, DNS, SSL, monitoring", de: "PHP/CodeIgniter, MySQL, Flutter, Linux, AWS, DNS, SSL, Monitoring" },
+        outcome: {
+          en: "Built a production SaaS platform serving 5+ corporate clients and migrated 5,000+ records with zero data loss.",
+          de: "Produktive SaaS-Plattform fuer 5+ Firmenkunden aufgebaut und 5.000+ Datensaetze ohne Datenverlust migriert.",
+        },
         links: [
           { label: { en: "Qodesystems" }, url: "https://qodesystems.com" },
           { label: { en: "Live demo" }, url: "https://demo.marketpulseos.com" },
@@ -176,20 +189,30 @@
         categories: ["website-apps"],
         year: "2025",
         coverImage: archive + "2025/06/Screenshot-2025-06-24-014136.jpg",
-        title: { en: "WideOptions ERP/HRM/CRM" },
-        kicker: { en: "Enterprise management system" },
-        summary: { en: "A React and Node.js management platform built, rolled out, documented, and supported to streamline ERP, HRM, CRM, inventory, sales, and operational workflows for WideOptions Melamine." },
+        title: { en: "WideOptions ERP/HRM/CRM", de: "WideOptions ERP/HRM/CRM" },
+        kicker: { en: "Internal ERP/CRM platform", de: "Interne ERP/CRM-Plattform" },
+        summary: { en: "Internal ERP/CRM Platform - Node.js - React - MySQL", de: "Interne ERP/CRM-Plattform - Node.js - React - MySQL" },
         fullDescription: {
           en: [
-            "I developed the WideOptions Management System as a serious internal business platform rather than a simple web app. It replaced fragmented operations with a central ERP, HRM, and CRM direction.",
-            "The front end was built in React for a responsive and interactive operations surface, while the Node.js backend handled business logic, data processing, and integrations across the system.",
-            "Beyond development, I set up staff users, roles, permissions, and support workflows, then created documentation and guidance to help teams adopt the system.",
-            "The project also included migration-minded work around business records and operational continuity, which made the delivery closer to a production rollout and application support engagement than a visual prototype."
+            "I built Wideoptions' first ERP/CRM from scratch to replace fragmented operations: customer management, sales, inventory, manufacturing workflows, and HR modules.",
+            "The React frontend handled daily operations for 50+ staff. The Node.js backend managed business logic, data processing, and integrations. I also deployed and maintained the production environment.",
+            "Key outcomes: 700+ customers supported, 5,000+ records migrated from legacy with zero loss, 80% paperwork reduction, 99% uptime."
+          ],
+          de: [
+            "Ich habe die erste ERP/CRM von Wideoptions von Grund auf aufgebaut, um fragmentierte Ablaeufe zu ersetzen: Kunden-Management, Vertrieb, Inventar, Fertigungs-Workflows und HR-Module.",
+            "Das React-Frontend bediente den taeglichen Betrieb fuer 50+ Mitarbeiter. Das Node.js-Backend verwaltete Business-Logik, Datenverarbeitung und Integrationen. Ich habe auch die Produktions-Umgebung deployed und betrieben.",
+            "Wichtigste Ergebnisse: 700+ Kunden unterstuetzt, 5.000+ Datensaetze von Legacy mit Null-Verlust migriert, 80% Papier-Reduktion, 99% Uptime."
           ],
         },
-        role: { en: "Full-stack delivery, workflow design, staff setup, documentation, data migration support, troubleshooting, and internal platform rollout." },
-        stackOrTools: { en: "React, Node.js, MySQL, ERP, HRM, CRM, operational dashboards, user roles, support documentation" },
-        outcome: { en: "Consolidated business workflows into one management platform for daily company use, with staff setup and support processes in place." },
+        role: {
+          en: "Full-stack development, production deployment, staff workflow setup, documentation, data migration, and maintenance.",
+          de: "Full-Stack-Entwicklung, Production Deployment, Mitarbeiter-Workflows, Dokumentation, Datenmigration und Wartung.",
+        },
+        stackOrTools: { en: "Node.js, React, MySQL, ERP, CRM, HRM, production support", de: "Node.js, React, MySQL, ERP, CRM, HRM, Produktions-Support" },
+        outcome: {
+          en: "Supported 700+ customers and 50+ daily staff users with measurable reduction in paperwork and stable uptime.",
+          de: "700+ Kunden und 50+ taegliche Mitarbeiter unterstuetzt, mit messbarer Papier-Reduktion und stabiler Uptime.",
+        },
         links: [
           { label: { en: "Brand guide PDF" }, url: archive + "2025/06/WIDE-OPTIONS-BRANDGUIDE.pdf" },
         ],
@@ -216,18 +239,21 @@
         year: "2026",
         coverImage: "assets/images/barabara-alerts-cover.svg",
         title: { en: "Barabara Alerts" },
-        kicker: { en: "Road-hazard reporting app with Laravel backend" },
-        summary: { en: "A mobile-first road-hazard reporting product delivered with Android and iOS apps, a Laravel backend, APIs, and a supporting NextJS frontend." },
+        kicker: { en: "Mobile app", de: "Mobile App" },
+        summary: { en: "Mobile App - Flutter - Laravel - Next.js", de: "Mobile App - Flutter - Laravel - Next.js" },
         fullDescription: {
           en: [
-            "Barabara Alerts started as a road-safety concept with an existing basic HTML website, then expanded into a wider mobile, backend, and frontend product delivery engagement.",
-            "I built and published the mobile app for Android and iOS, while the Laravel backend handled reporting workflows, operational coordination, and the supporting API layer.",
-            "The engagement also included API design and a NextJS web frontend to complete the broader platform and move the idea beyond a simple brochure site."
+            "Rebuilt a road-safety concept from basic HTML to full product: Android and iOS apps using Flutter, Laravel backend for reporting workflows, and Next.js web frontend.",
+            "Published to app stores. The live backend handles operational coordination and the API layer."
+          ],
+          de: [
+            "Neubau eines Road-Safety-Konzepts von einfacher HTML-Seite zu vollstaendigem Produkt: Android- und iOS-Apps mit Flutter, Laravel-Backend fuer Reporting-Workflows und Next.js-Web-Frontend.",
+            "Veroeffentlicht in den App Stores. Das Live-Backend verwaltet operative Koordination und API-Layer."
           ],
         },
-        role: { en: "Mobile product delivery, Laravel backend implementation, API workflow design, and supporting web-platform rollout." },
-        stackOrTools: { en: "Laravel, Android, iOS, NextJS, APIs, product delivery" },
-        outcome: { en: "Took an early concept into a working mobile product with a production-ready backend, published app presence, and supporting web platform." },
+        role: { en: "Mobile app delivery, Laravel backend, API workflow, and Next.js frontend.", de: "Mobile-App-Entwicklung, Laravel-Backend, API-Workflow und Next.js-Frontend." },
+        stackOrTools: { en: "Flutter, Laravel, Next.js, REST APIs", de: "Flutter, Laravel, Next.js, REST APIs" },
+        outcome: { en: "Turned an early web concept into a published mobile product with a live backend.", de: "Fruehes Web-Konzept in ein veroeffentlichtes Mobile-Produkt mit Live-Backend verwandelt." },
         links: [
           { label: { en: "Google Play" }, url: "https://play.google.com/store/search?q=barabara%20alerts&c=apps" },
         ],
@@ -241,19 +267,21 @@
         year: "2023",
         coverImage: archive + "2025/06/slider2.jpg",
         title: { en: "Lockdown Ice Online Shop" },
-        kicker: { en: "Laravel and Flutter commerce platform" },
-        summary: { en: "An e-commerce storefront and mobile-app backed shopping experience for a beverage retail business in Kenya." },
+        kicker: { en: "E-commerce platform", de: "E-Commerce-Plattform" },
+        summary: { en: "E-Commerce Platform - Laravel - Flutter - REST API", de: "E-Commerce-Plattform - Laravel - Flutter - REST API" },
         fullDescription: {
           en: [
-            "I developed Lockdown Ice as an online shopping platform for a beverage retail business in Kenya. The project combined a Laravel-powered website with mobile distribution for Android and iOS.",
-            "The Laravel backend provided a maintainable foundation and API surface for the Flutter applications, while the storefront focused on making browsing and ordering feel direct for customers.",
-            "The project also reflects long-term maintenance: hosting, updates, troubleshooting, and keeping web and mobile experiences aligned after launch.",
-            "This project keeps the software portfolio connected to real consumer-facing delivery rather than only internal business systems."
+            "API-driven commerce platform for beverage retail: Laravel backend with Flutter companion apps for Android and iOS.",
+            "I built this in 2023 and continue to maintain it. The backend provides a stable API surface for the mobile apps; the storefront handles direct customer ordering."
+          ],
+          de: [
+            "API-gesteuerte Commerce-Plattform fuer Getraenke-Retail: Laravel-Backend mit Flutter-Begleit-Apps fuer Android und iOS.",
+            "Ich habe dies 2023 aufgebaut und betreue es weiter. Das Backend liefert eine stabile API-Oberflaeche fuer die Mobile Apps; der Storefront verwaltet direkte Kunden-Bestellungen."
           ],
         },
-        role: { en: "E-commerce implementation, API-backed mobile workflow support, maintenance, and storefront presentation." },
-        stackOrTools: { en: "Laravel, Flutter, e-commerce, API integration, hosting, maintenance, web and mobile delivery" },
-        outcome: { en: "Delivered a web and mobile commerce path for the Lockdown Ice brand." },
+        role: { en: "Laravel backend, Flutter mobile apps, REST API, storefront delivery, hosting, and maintenance.", de: "Laravel-Backend, Flutter-Mobile-Apps, REST API, Storefront, Hosting und Wartung." },
+        stackOrTools: { en: "Laravel, Flutter, REST API, e-commerce, hosting", de: "Laravel, Flutter, REST API, E-Commerce, Hosting" },
+        outcome: { en: "Built and maintain an API-backed commerce platform with web and mobile ordering paths.", de: "API-gestuetzte Commerce-Plattform mit Web- und Mobile-Bestellwegen gebaut und betreut." },
         links: [
           { label: { en: "Visit website" }, url: "https://lockdownice.com/" },
           { label: { en: "Android app" }, url: "https://play.google.com/store/apps/details?id=com.studio360.lockdownice" },
@@ -273,18 +301,21 @@
         year: "2020",
         coverImage: archive + "2020/01/Screenshot-2025-06-24-004309.jpg",
         title: { en: "Kritiplacejoint Website" },
-        kicker: { en: "Custom WordPress website" },
-        summary: { en: "A boutique bakery website with a custom cake cost calculator for clearer, faster customer price estimates." },
+        kicker: { en: "WordPress website", de: "WordPress-Website" },
+        summary: { en: "WordPress Website - Custom Calculator", de: "WordPress-Website - Custom Calculator" },
         fullDescription: {
           en: [
-            "I developed Kritiplacejoint, a custom WordPress website for a boutique bakery specializing in premium cakes and baked goods.",
-            "The site included an intuitive cost calculator that lets customers estimate prices for custom cakes using guest count, layers, occasion, flavor, and optional toppers. That interactive pricing tool made the website more useful than a static brochure.",
-            "The project shows the SME website side of my work: practical WordPress delivery, a clean customer journey, and a feature that directly supports enquiries and sales."
+            "Boutique bakery website with interactive cake cost calculator: guest count, layers, occasion, flavor, and optional toppers.",
+            "The calculator directly supports enquiries and sales, making the site more useful than a static brochure."
+          ],
+          de: [
+            "Boutique-Baeckerei-Website mit interaktivem Kuchen-Kosten-Rechner: Gaeste-Anzahl, Etagen, Anlass, Geschmack und optionale Toppings.",
+            "Der Rechner unterstuetzt Anfragen und Verkaeufe direkt und macht die Website nuetzlicher als eine statische Broschuere."
           ],
         },
-        role: { en: "WordPress development, calculator implementation, responsive front-end support, and client delivery." },
-        stackOrTools: { en: "WordPress, PHP, front-end implementation, custom calculator workflow" },
-        outcome: { en: "Delivered a polished business website with an interactive pricing experience for bakery customers." },
+        role: { en: "WordPress development, calculator implementation, responsive front-end support, and client delivery.", de: "WordPress-Entwicklung, Rechner-Implementierung, responsives Frontend und Kundenlieferung." },
+        stackOrTools: { en: "WordPress, PHP, front-end implementation, custom calculator workflow", de: "WordPress, PHP, Frontend, Custom-Calculator-Workflow" },
+        outcome: { en: "Delivered a business website with an interactive pricing workflow for customer enquiries.", de: "Business-Website mit interaktivem Preis-Workflow fuer Kundenanfragen geliefert." },
         links: [
           { label: { en: "Live website" }, url: "https://kritiplacejoint.com/" },
           { label: { en: "Project archive" }, url: "https://edkimfx.com/portfolio-archive/kritiplacejoint/" },

@@ -1282,6 +1282,31 @@ a:focus {
 	border-color: var(--mc);
 	color: var(--mc);
 }
+.site-header-language{
+	position: fixed;
+	left: 50px;
+	top: 40px;
+	z-index: 60;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	align-items: center;
+	min-height: 32px;
+}
+.site-header-language .site-language-switcher{
+	gap: 12px;
+	padding: 5px 8px;
+	background: rgba(8,28,34,.72);
+	border: 1px solid rgba(255,255,255,.12);
+	-webkit-backdrop-filter: blur(8px);
+	backdrop-filter: blur(8px);
+}
+.site-header-language .lang-btn{
+	font-size: 13px;
+	padding: 4px 0;
+}
 .site-nav-controls{
 	padding: 10px 0 20px;
 	display: -webkit-flex;
@@ -2345,6 +2370,10 @@ body.light .resumo_fn_right:hover .border2{border-color: rgba(0,0,0,.3)}
 body.light .resumo_fn_cv_btn a{border-color: rgba(0,0,0,.2)}
 body.light .resumo_fn_cv_btn a:hover{border-color: var(--mc);}
 body.light .resumo_fn_cv_btn .icon{color: #333;}
+body.light .site-header-language .site-language-switcher{
+	background: rgba(255,255,255,.86);
+	border-color: rgba(0,0,0,.10);
+}
 body.light .skill_chip{
 	background-color: rgba(0,0,0,.03);
 	border-color: rgba(0,0,0,.08);
@@ -2516,6 +2545,18 @@ body.light .resumo_fn_modalbox .portfolio_gallery_file_icon:after{
 body.light .resumo_fn_modalbox .portfolio_gallery_caption{color: #777;}
 body.light .resumo_fn_modalbox .modal_content::-webkit-scrollbar-thumb{border-color: #fafafa;}
 @media(max-width:768px){body.light .resumo_fn_right .menu_trigger{background-color: #fafafa;border: 1px solid #ddd;}}
+@media(max-width:768px){
+	.site-header-language{
+		left: 20px;
+		top: 20px;
+	}
+	.site-header-language .site-language-switcher{
+		background: rgba(8,28,34,.90);
+	}
+	body.light .site-header-language .site-language-switcher{
+		background: rgba(255,255,255,.92);
+	}
+}
 
 
 

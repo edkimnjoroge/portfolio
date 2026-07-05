@@ -40,6 +40,10 @@
     return document.getElementById("site-nav-controls");
   }
 
+  function getLanguageControlsContainer() {
+    return document.getElementById("site-header-language") || getNavControlsContainer();
+  }
+
   function escapeHtml(value) {
     return String(value === undefined || value === null ? "" : value)
       .replace(/&/g, "&amp;")
@@ -117,7 +121,7 @@
   /* ---------- LANGUAGE SWITCHER ---------- */
 
   function renderLanguageSwitcher(lang) {
-    var controls = getNavControlsContainer();
+    var controls = getLanguageControlsContainer();
     if (!controls) return;
 
     var switcher = document.getElementById("site-language-switcher");
