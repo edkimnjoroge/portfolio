@@ -30,13 +30,13 @@ window.siteContent = {
       },
     },
     home: {
-      eyebrow: "Business software, servers, support",
+      eyebrow: "Full-stack development, business systems, technical support",
       heroName: "Edwin Njoroge",
       heroRole: "Full-Stack Developer",
       heroLead:
-        "I build business software and help keep it running.",
+        "I build business software, then stay close to the infrastructure and support work that keeps it running.",
       heroBody:
-        "Lately that has meant ERP and CRM systems, SaaS platforms, mobile apps, Linux servers, databases, DNS, SSL, user setup, and the support work that starts after launch.",
+        "My recent work has focused on ERP and CRM systems, SaaS platforms, mobile apps, Linux servers, databases, DNS, SSL, user setup, and the practical support that comes after launch.",
       ctas: {
         primary: "View Resume",
         secondary: "Explore Projects",
@@ -98,15 +98,15 @@ window.siteContent = {
     },
     about: {
       eyebrow: "Professional overview",
-      title: "I build the system, then stay with the messy parts",
+      title: "Building software with the real operating environment in mind",
       lead:
-        "I am a full-stack developer, but a lot of my work has also been setup, support, and maintenance.",
+        "I am a full-stack developer with a practical background in setup, support, and system maintenance.",
       paragraphs: [
-        "I started with a mix of software, IT support, and creative work for small clients. The software work grew over time, but the support side stayed with me. In recent projects I have been the person setting up users, checking databases, configuring servers, fixing bugs, writing notes for staff, and explaining how the system should be used.",
-        "I like that kind of work. Build the app, then deal with the real-life parts: old data, user permissions, SSL certificates, staff questions, broken workflows, and the small issues that only appear once people use the system every day.",
-        "MarketpulseOS and the WideOptions ERP/CRM project are good examples. They needed code, but they also needed migration work, server setup, tenant configuration, staff onboarding, documentation, and support.",
-        "I use AI tools for specific jobs: faster development, workflow automation with n8n, and knowledge assistants or agent tools such as OpenClaw, Hermes, Paperclip, and RAG-based systems.",
-        "I also keep some older 3D and motion work in the portfolio. It is not my main direction now, but it still affects how I think about presentation and clear visual communication.",
+        "I began with a mix of software development, IT support, and creative work for small clients. Over time, software became the main direction, but the support side remained important. In recent projects I have handled user setup, database checks, server configuration, bug fixing, staff notes, and day-to-day guidance for people using the systems.",
+        "I like work where the application has to survive real business use. That means dealing with old data, user permissions, SSL certificates, staff questions, broken workflows, and the smaller issues that only appear once a system is used every day.",
+        "MarketpulseOS and the WideOptions ERP/CRM project show this well. They required software development, but also migration work, server setup, tenant configuration, staff onboarding, documentation, and ongoing support.",
+        "I use AI tools in a practical way: faster development, workflow automation with n8n, and knowledge assistants or agent tools such as OpenClaw, Hermes, Paperclip, and RAG-based systems.",
+        "I also keep some older 3D and motion work in the portfolio. It is no longer my main direction, but it still influences how I think about presentation and visual clarity.",
       ],
       principlesTitle: "How I work",
       principlesEyebrow: "Approach",
@@ -346,13 +346,13 @@ window.siteContent = {
       },
     },
     home: {
-      eyebrow: "Business-Software, Server, Support",
+      eyebrow: "Full-Stack-Entwicklung, Business-Systeme, technischer Support",
       heroName: "Edwin Njoroge",
       heroRole: "Full-Stack Developer",
       heroLead:
-        "Ich entwickle Business-Software und helfe dabei, sie stabil zu betreiben.",
+        "Ich entwickle Business-Software und bleibe nah an Infrastruktur und Support, damit sie im Betrieb funktioniert.",
       heroBody:
-        "In letzter Zeit bedeutete das ERP- und CRM-Systeme, SaaS-Plattformen, mobile Apps, Linux-Server, Datenbanken, DNS, SSL, Benutzereinrichtung und den Support nach dem Launch.",
+        "Meine neuere Arbeit konzentriert sich auf ERP- und CRM-Systeme, SaaS-Plattformen, mobile Apps, Linux-Server, Datenbanken, DNS, SSL, Benutzereinrichtung und den praktischen Support nach dem Launch.",
       ctas: {
         primary: "Lebenslauf ansehen",
         secondary: "Projekte ansehen",
@@ -414,15 +414,15 @@ window.siteContent = {
     },
     about: {
       eyebrow: "Beruflicher Ueberblick",
-      title: "Ich baue Systeme und bleibe bei den praktischen Teilen",
+      title: "Software mit Blick auf den echten Betrieb entwickeln",
       lead:
-        "Ich bin Full-Stack-Developer, aber ein grosser Teil meiner Arbeit war auch Einrichtung, Support und Wartung.",
+        "Ich bin Full-Stack-Developer mit praktischer Erfahrung in Einrichtung, Support und Systemwartung.",
       paragraphs: [
-        "Ich habe mit einer Mischung aus Software, IT-Support und kreativer Arbeit fuer kleinere Kunden begonnen. Mit der Zeit wurde Software groesser, aber der Support-Teil blieb. In neueren Projekten habe ich Benutzer eingerichtet, Datenbanken geprueft, Server konfiguriert, Bugs behoben, Notizen fuer Mitarbeiter geschrieben und erklaert, wie Systeme genutzt werden sollen.",
-        "Diese Art von Arbeit passt gut zu mir. Die Anwendung bauen und danach die echten Alltagsthemen loesen: alte Daten, Benutzerrechte, SSL-Zertifikate, Mitarbeiterfragen, kaputte Workflows und kleine Probleme, die erst im taeglichen Einsatz sichtbar werden.",
-        "MarketpulseOS und das WideOptions ERP/CRM-Projekt sind gute Beispiele. Sie brauchten Code, aber auch Migration, Servereinrichtung, Mandantenkonfiguration, Mitarbeiter-Onboarding, Dokumentation und Support.",
-        "AI-Tools nutze ich fuer konkrete Aufgaben: schnellere Entwicklung, Workflow-Automation mit n8n sowie Knowledge Assistants oder Agent-Tools wie OpenClaw, Hermes, Paperclip und RAG-basierte Systeme.",
-        "Einige aeltere 3D- und Motion-Arbeiten bleiben ebenfalls im Portfolio. Das ist heute nicht meine Hauptrichtung, aber es beeinflusst weiterhin meinen Blick fuer Praesentation und klare visuelle Kommunikation.",
+        "Ich habe mit einer Mischung aus Softwareentwicklung, IT-Support und kreativer Arbeit fuer kleinere Kunden begonnen. Mit der Zeit wurde Software zur Hauptrichtung, aber der Support-Teil blieb wichtig. In neueren Projekten habe ich Benutzer eingerichtet, Datenbanken geprueft, Server konfiguriert, Bugs behoben, Notizen fuer Mitarbeiter geschrieben und Teams im Alltag unterstuetzt.",
+        "Ich mag Arbeit, bei der die Anwendung im echten Betrieb bestehen muss. Dazu gehoeren alte Daten, Benutzerrechte, SSL-Zertifikate, Mitarbeiterfragen, kaputte Workflows und kleinere Probleme, die erst sichtbar werden, wenn ein System taeglich genutzt wird.",
+        "MarketpulseOS und das WideOptions ERP/CRM-Projekt zeigen das gut. Sie brauchten Softwareentwicklung, aber auch Migration, Servereinrichtung, Mandantenkonfiguration, Mitarbeiter-Onboarding, Dokumentation und laufenden Support.",
+        "AI-Tools nutze ich praktisch: schnellere Entwicklung, Workflow-Automation mit n8n sowie Knowledge Assistants oder Agent-Tools wie OpenClaw, Hermes, Paperclip und RAG-basierte Systeme.",
+        "Einige aeltere 3D- und Motion-Arbeiten bleiben ebenfalls im Portfolio. Das ist heute nicht mehr meine Hauptrichtung, beeinflusst aber weiterhin meinen Blick fuer Praesentation und visuelle Klarheit.",
       ],
       principlesTitle: "Meine Arbeitsweise",
       principlesEyebrow: "Ansatz",
