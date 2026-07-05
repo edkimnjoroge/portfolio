@@ -144,7 +144,7 @@
         categories: ["website-apps"],
         year: "2025",
         coverImage: archive + "2025/10/Screenshot_21-10-2025_185219_marketpulseos.com_.jpeg",
-        title: { en: "MarketpulseOS: SaaS Product Architecture and Operations", de: "MarketpulseOS: SaaS-Produktarchitektur und Betrieb" },
+        title: { en: "MarketpulseOS: SaaS Platform Architecture", de: "MarketpulseOS: SaaS-Plattformarchitektur" },
         kicker: { en: "SaaS platform architecture", de: "SaaS-Plattform-Architektur" },
         summary: {
           en: "SaaS Platform Architecture - PHP/CodeIgniter - MySQL - Flutter - Linux - Oracle Cloud",
@@ -152,24 +152,24 @@
         },
         fullDescription: {
           en: [
-            "I supported and helped build MarketpulseOS from the founding stage: a multi-tenant SaaS platform with ERP, CRM, HRM, and POS modules.",
-            "The work covered full lifecycle delivery: application development, client onboarding, deployment, SSL/DNS configuration, database administration, and ongoing support. I also built the companion Flutter app for mobile access.",
-            "Key outcome: Migrated Wideoptions Melamine from its internal ERP/CRM setup to MarketpulseOS with zero data loss across customer, supplier, product, and inventory records."
+            "I architected and built MarketpulseOS from the founding stage: a multi-tenant SaaS platform with ERP, CRM, HRM, and POS modules.",
+            "The work covered full lifecycle delivery: PHP/CodeIgniter platform development, MySQL tenant isolation, configurable modules, client onboarding, deployment, SSL/DNS configuration, database administration, monitoring, backups, and a companion Flutter app for mobile access.",
+            "Key outcomes: onboarded 5+ business clients and led the Wideoptions Melamine migration from legacy ERP/CRM to MarketpulseOS with zero data loss across 5,000+ records."
           ],
           de: [
-            "Ich habe MarketpulseOS ab der Gruendungsphase unterstuetzt und mit aufgebaut: eine Multi-Tenant-SaaS-Plattform mit ERP-, CRM-, HRM- und POS-Modulen.",
-            "Die Arbeit umfasste den kompletten Lebenszyklus: Anwendungs-Entwicklung, Kunden-Onboarding, Deployment, SSL/DNS-Konfiguration, Datenbank-Administration und laufenden Support. Ich habe auch die begleitende Flutter-App fuer mobilen Zugriff entwickelt.",
-            "Wichtigstes Ergebnis: Migration von Wideoptions Melamine von internem ERP/CRM auf MarketpulseOS ohne Datenverlust bei Kunden-, Lieferanten-, Produkt- und Inventardaten."
+            "Ich habe MarketpulseOS ab der Gruendungsphase architektiert und aufgebaut: eine Multi-Tenant-SaaS-Plattform mit ERP-, CRM-, HRM- und POS-Modulen.",
+            "Die Arbeit umfasste den kompletten Lebenszyklus: PHP/CodeIgniter-Plattformentwicklung, MySQL-Tenant-Isolation, konfigurierbare Module, Kunden-Onboarding, Deployment, SSL/DNS-Konfiguration, Datenbank-Administration, Monitoring, Backups und eine Flutter-App fuer mobilen Zugriff.",
+            "Wichtigste Ergebnisse: 5+ Business-Kunden onboarded und die Migration von Wideoptions Melamine von Legacy ERP/CRM zu MarketpulseOS ohne Datenverlust bei 5,000+ Datensaetzen geleitet."
           ],
         },
         role: {
-          en: "SaaS architecture, full-stack development, Flutter app delivery, deployment, client onboarding, database administration, and support.",
+          en: "SaaS architecture, full-stack development, Flutter app delivery, deployment, client onboarding, database administration, and platform support.",
           de: "SaaS-Architektur, Full-Stack-Entwicklung, Flutter-App, Deployment, Kunden-Onboarding, Datenbank-Administration und Support.",
         },
         stackOrTools: { en: "PHP/CodeIgniter, MySQL, Flutter, Linux, Oracle Cloud, DNS, SSL, monitoring", de: "PHP/CodeIgniter, MySQL, Flutter, Linux, Oracle Cloud, DNS, SSL, Monitoring" },
         outcome: {
-          en: "Supported a production SaaS platform and migrated Wideoptions business data to MarketpulseOS with zero data loss.",
-          de: "Produktive SaaS-Plattform unterstuetzt und Wideoptions-Geschaeftsdaten ohne Datenverlust zu MarketpulseOS migriert.",
+          en: "Built a production SaaS platform, onboarded 5+ business clients, and migrated 5,000+ Wideoptions records with zero data loss.",
+          de: "Produktive SaaS-Plattform aufgebaut, 5+ Business-Kunden onboarded und 5,000+ Wideoptions-Datensaetze ohne Datenverlust migriert.",
         },
         links: [
           { label: { en: "Qodesystems" }, url: "https://qodesystems.com" },
@@ -192,23 +192,23 @@
         fullDescription: {
           en: [
             "I built Wideoptions' first ERP/CRM from scratch to replace fragmented operations: customer management, sales, inventory, manufacturing workflows, and HR modules.",
-            "The React frontend handled daily operations for 50+ staff. The Node.js backend managed business logic, data processing, and integrations. I also deployed and maintained the production environment.",
-            "Key outcomes: 700+ customer records, supplier records, 600+ product records, and inventory data migrated from manual and legacy processes with zero data loss."
+            "The React frontend handled daily operations for 50+ staff. The Node.js backend managed business logic, data processing, role-based access, and integrations. I also deployed and maintained the production environment.",
+            "Key outcomes: scaled to 700+ customers and migrated 5,000+ records from manual and legacy processes with zero data loss."
           ],
           de: [
             "Ich habe die erste ERP/CRM von Wideoptions von Grund auf aufgebaut, um fragmentierte Ablaeufe zu ersetzen: Kunden-Management, Vertrieb, Inventar, Fertigungs-Workflows und HR-Module.",
-            "Das React-Frontend bediente den taeglichen Betrieb fuer 50+ Mitarbeiter. Das Node.js-Backend verwaltete Business-Logik, Datenverarbeitung und Integrationen. Ich habe auch die Produktions-Umgebung deployed und betrieben.",
-            "Wichtigste Ergebnisse: 700+ Kundendatensaetze, Lieferantendaten, 600+ Produktdatensaetze und Inventardaten aus manuellen und alten Prozessen ohne Datenverlust migriert."
+            "Das React-Frontend bediente den taeglichen Betrieb fuer 50+ Mitarbeiter. Das Node.js-Backend verwaltete Business-Logik, Datenverarbeitung, rollenbasierte Zugriffe und Integrationen. Ich habe auch die Produktions-Umgebung deployed und betrieben.",
+            "Wichtigste Ergebnisse: auf 700+ Kunden skaliert und 5,000+ Datensaetze aus manuellen und alten Prozessen ohne Datenverlust migriert."
           ],
         },
         role: {
-          en: "Full-stack development, production deployment, staff workflow setup, documentation, data migration, and maintenance.",
+          en: "Full-stack development, production deployment, role-based access, staff workflow setup, documentation, data migration, and maintenance.",
           de: "Full-Stack-Entwicklung, Production Deployment, Mitarbeiter-Workflows, Dokumentation, Datenmigration und Wartung.",
         },
         stackOrTools: { en: "Node.js, React, MySQL, ERP, CRM, HRM, production support", de: "Node.js, React, MySQL, ERP, CRM, HRM, Produktions-Support" },
         outcome: {
-          en: "Built and supported the internal ERP/CRM platform, then supported the transition to MarketpulseOS while preserving data and workflows.",
-          de: "Interne ERP/CRM-Plattform aufgebaut und betreut, danach die Transition zu MarketpulseOS mit Daten- und Workflow-Erhalt unterstuetzt.",
+          en: "Built the internal ERP/CRM platform, scaled it for daily staff use, then coordinated the transition to MarketpulseOS while preserving data and workflows.",
+          de: "Interne ERP/CRM-Plattform aufgebaut, fuer taegliche Mitarbeitenden-Nutzung skaliert und danach die Transition zu MarketpulseOS mit Daten- und Workflow-Erhalt koordiniert.",
         },
         links: [
           { label: { en: "Brand guide PDF" }, url: archive + "2025/06/WIDE-OPTIONS-BRANDGUIDE.pdf" },
