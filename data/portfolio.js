@@ -152,14 +152,14 @@
         },
         fullDescription: {
           en: [
-            "I architected and built MarketpulseOS from the founding stage: a multi-tenant SaaS platform now serving 5+ corporate clients with ERP, CRM, HRM, and POS modules.",
+            "I supported and helped build MarketpulseOS from the founding stage: a multi-tenant SaaS platform with ERP, CRM, HRM, and POS modules.",
             "The work covered full lifecycle delivery: application development, client onboarding, deployment, SSL/DNS configuration, database administration, and ongoing support. I also built the companion Flutter app for mobile access.",
-            "Key outcome: Migrated Wideoptions Melamine, 5,000+ records, from legacy system to MarketpulseOS with zero data loss."
+            "Key outcome: Migrated Wideoptions Melamine from its internal ERP/CRM setup to MarketpulseOS with zero data loss across customer, supplier, product, and inventory records."
           ],
           de: [
-            "Ich habe MarketpulseOS von der Gruendungsphase an entworfen und aufgebaut: eine Multi-Tenant-SaaS-Plattform mit aktuell 5+ Firmenkunden und ERP-, CRM-, HRM- und POS-Modulen.",
+            "Ich habe MarketpulseOS ab der Gruendungsphase unterstuetzt und mit aufgebaut: eine Multi-Tenant-SaaS-Plattform mit ERP-, CRM-, HRM- und POS-Modulen.",
             "Die Arbeit umfasste den kompletten Lebenszyklus: Anwendungs-Entwicklung, Kunden-Onboarding, Deployment, SSL/DNS-Konfiguration, Datenbank-Administration und laufenden Support. Ich habe auch die begleitende Flutter-App fuer mobilen Zugriff entwickelt.",
-            "Wichtigstes Ergebnis: Migration von Wideoptions Melamine mit 5.000+ Datensaetzen von Legacy-System auf MarketpulseOS mit Null Datenverlust."
+            "Wichtigstes Ergebnis: Migration von Wideoptions Melamine von internem ERP/CRM auf MarketpulseOS ohne Datenverlust bei Kunden-, Lieferanten-, Produkt- und Inventardaten."
           ],
         },
         role: {
@@ -168,8 +168,8 @@
         },
         stackOrTools: { en: "PHP/CodeIgniter, MySQL, Flutter, Linux, AWS, DNS, SSL, monitoring", de: "PHP/CodeIgniter, MySQL, Flutter, Linux, AWS, DNS, SSL, Monitoring" },
         outcome: {
-          en: "Built a production SaaS platform serving 5+ corporate clients and migrated 5,000+ records with zero data loss.",
-          de: "Produktive SaaS-Plattform fuer 5+ Firmenkunden aufgebaut und 5.000+ Datensaetze ohne Datenverlust migriert.",
+          en: "Supported a production SaaS platform and migrated Wideoptions business data to MarketpulseOS with zero data loss.",
+          de: "Produktive SaaS-Plattform unterstuetzt und Wideoptions-Geschaeftsdaten ohne Datenverlust zu MarketpulseOS migriert.",
         },
         links: [
           { label: { en: "Qodesystems" }, url: "https://qodesystems.com" },
@@ -196,12 +196,12 @@
           en: [
             "I built Wideoptions' first ERP/CRM from scratch to replace fragmented operations: customer management, sales, inventory, manufacturing workflows, and HR modules.",
             "The React frontend handled daily operations for 50+ staff. The Node.js backend managed business logic, data processing, and integrations. I also deployed and maintained the production environment.",
-            "Key outcomes: 700+ customers supported, 5,000+ records migrated from legacy with zero loss, 80% paperwork reduction, 99% uptime."
+            "Key outcomes: 700+ customer records, supplier records, 600+ product records, and inventory data migrated from manual and legacy processes with zero data loss."
           ],
           de: [
             "Ich habe die erste ERP/CRM von Wideoptions von Grund auf aufgebaut, um fragmentierte Ablaeufe zu ersetzen: Kunden-Management, Vertrieb, Inventar, Fertigungs-Workflows und HR-Module.",
             "Das React-Frontend bediente den taeglichen Betrieb fuer 50+ Mitarbeiter. Das Node.js-Backend verwaltete Business-Logik, Datenverarbeitung und Integrationen. Ich habe auch die Produktions-Umgebung deployed und betrieben.",
-            "Wichtigste Ergebnisse: 700+ Kunden unterstuetzt, 5.000+ Datensaetze von Legacy mit Null-Verlust migriert, 80% Papier-Reduktion, 99% Uptime."
+            "Wichtigste Ergebnisse: 700+ Kundendatensaetze, Lieferantendaten, 600+ Produktdatensaetze und Inventardaten aus manuellen und alten Prozessen ohne Datenverlust migriert."
           ],
         },
         role: {
@@ -210,8 +210,8 @@
         },
         stackOrTools: { en: "Node.js, React, MySQL, ERP, CRM, HRM, production support", de: "Node.js, React, MySQL, ERP, CRM, HRM, Produktions-Support" },
         outcome: {
-          en: "Supported 700+ customers and 50+ daily staff users with measurable reduction in paperwork and stable uptime.",
-          de: "700+ Kunden und 50+ taegliche Mitarbeiter unterstuetzt, mit messbarer Papier-Reduktion und stabiler Uptime.",
+          en: "Built and supported the internal ERP/CRM platform, then supported the transition to MarketpulseOS while preserving data and workflows.",
+          de: "Interne ERP/CRM-Plattform aufgebaut und betreut, danach die Transition zu MarketpulseOS mit Daten- und Workflow-Erhalt unterstuetzt.",
         },
         links: [
           { label: { en: "Brand guide PDF" }, url: archive + "2025/06/WIDE-OPTIONS-BRANDGUIDE.pdf" },
