@@ -17,7 +17,7 @@ window.siteContent = {
         copyright: "",
       },
       pageTitles: {
-        home: "Full-Stack Developer",
+        home: "IT Systems & Support Specialist",
         about: "About",
         resume: "Resume",
         projects: "Software Projects",
@@ -30,17 +30,58 @@ window.siteContent = {
       },
     },
     home: {
-      eyebrow: "Full-stack development, business systems, technical support",
+      eyebrow: "IT systems, application support, full-stack development",
       heroName: "Edwin Njoroge",
-      heroRole: "Full-Stack Developer",
+      heroRole: "IT Systems & Support Specialist",
       heroLead:
-        "I build business software, then stay close to the infrastructure and support work that keeps it running.",
+        "I build and support the business systems people rely on every day.",
       heroBody:
-        "My recent work has focused on ERP and CRM systems, SaaS platforms, mobile apps, Linux servers, databases, DNS, SSL, user setup, and the practical support that comes after launch.",
+        "My recent work has focused on ERP and CRM systems, SaaS platforms, mobile apps, Linux servers, databases, DNS, SSL, staff setup, documentation, and the practical support that keeps systems useful after launch.",
       ctas: {
         primary: "View Resume",
         secondary: "Explore Projects",
         tertiary: "Creative Work",
+      },
+      dossier: {
+        kicker: "Available for English-speaking IT roles",
+        role: "IT Systems & Support Specialist",
+        roleNote: "Full-stack developer with hands-on systems support experience.",
+        sideItems: [
+          "Business systems and application support",
+          "Linux, DNS, SSL, databases, and cloud setup",
+          "Staff onboarding, documentation, and troubleshooting",
+          "AI workflow automation with n8n, OpenClaw, Hermes, Paperclip, and RAG assistants",
+        ],
+        profileLabel: "Professional profile",
+        profileTitle: "I help teams run business systems with less friction.",
+        profileBody:
+          "My work sits between software development and practical IT support: building the application, setting up the environment, onboarding staff, documenting workflows, and staying close when real users meet real problems.",
+        cards: [
+          {
+            number: "01",
+            title: "Systems support",
+            body:
+              "User setup, permissions, staff support, documentation, printer and office IT basics, and day-to-day troubleshooting.",
+          },
+          {
+            number: "02",
+            title: "Business applications",
+            body:
+              "ERP, CRM, SaaS, tenant setup, data migration, APIs, and application support for teams using systems in production.",
+          },
+          {
+            number: "03",
+            title: "Cloud and infrastructure",
+            body:
+              "Linux servers, Oracle Cloud, DNS, SSL, database administration, monitoring, and deployment support.",
+          },
+          {
+            number: "04",
+            title: "Automation and AI tools",
+            body:
+              "Workflow automation, AI-assisted development, agent tools, and RAG-style assistants used to reduce repeated manual work.",
+          },
+        ],
       },
       focusTitle: "What I work on",
       focusEyebrow: "Main work",
@@ -333,7 +374,7 @@ window.siteContent = {
         copyright: "",
       },
       pageTitles: {
-        home: "Full-Stack Developer",
+        home: "IT Systems & Support Specialist",
         about: "Profil",
         resume: "Lebenslauf",
         projects: "Software-Projekte",
@@ -346,17 +387,58 @@ window.siteContent = {
       },
     },
     home: {
-      eyebrow: "Full-Stack-Entwicklung, Business-Systeme, technischer Support",
+      eyebrow: "IT-Systeme, Anwendungssupport, Full-Stack-Entwicklung",
       heroName: "Edwin Njoroge",
-      heroRole: "Full-Stack Developer",
+      heroRole: "IT Systems & Support Specialist",
       heroLead:
-        "Ich entwickle Business-Software und bleibe nah an Infrastruktur und Support, damit sie im Betrieb funktioniert.",
+        "Ich entwickle und betreue Business-Systeme, auf die Teams im Alltag angewiesen sind.",
       heroBody:
-        "Meine neuere Arbeit konzentriert sich auf ERP- und CRM-Systeme, SaaS-Plattformen, mobile Apps, Linux-Server, Datenbanken, DNS, SSL, Benutzereinrichtung und den praktischen Support nach dem Launch.",
+        "Meine aktuelle Arbeit umfasst ERP- und CRM-Systeme, SaaS-Plattformen, mobile Apps, Linux-Server, Datenbanken, DNS, SSL, Benutzer- und Mitarbeitereinrichtung, Dokumentation und den praktischen Support nach dem Go-live.",
       ctas: {
         primary: "Lebenslauf ansehen",
         secondary: "Projekte ansehen",
         tertiary: "Kreative Arbeiten",
+      },
+      dossier: {
+        kicker: "Verfuegbar fuer englischsprachige IT-Rollen",
+        role: "IT Systems & Support Specialist",
+        roleNote: "Full-Stack-Entwickler mit praktischer Erfahrung im Systemsupport.",
+        sideItems: [
+          "Business-Systeme und Anwendungssupport",
+          "Linux, DNS, SSL, Datenbanken und Cloud-Setup",
+          "Mitarbeiter-Onboarding, Dokumentation und Fehlerbehebung",
+          "AI-Workflow-Automatisierung mit n8n, OpenClaw, Hermes, Paperclip und RAG-Assistenten",
+        ],
+        profileLabel: "Berufliches Profil",
+        profileTitle: "Ich helfe Teams, Business-Systeme mit weniger Reibung zu betreiben.",
+        profileBody:
+          "Meine Arbeit liegt zwischen Softwareentwicklung und praktischem IT-Support: Anwendungen bauen, Umgebungen einrichten, Mitarbeitende einarbeiten, Workflows dokumentieren und nah dranbleiben, wenn reale Nutzer auf reale Probleme treffen.",
+        cards: [
+          {
+            number: "01",
+            title: "Systemsupport",
+            body:
+              "Benutzereinrichtung, Berechtigungen, Mitarbeitersupport, Dokumentation, einfache Office-IT, Drucker und taegliche Fehlerbehebung.",
+          },
+          {
+            number: "02",
+            title: "Business-Anwendungen",
+            body:
+              "ERP, CRM, SaaS, Mandanten-Setup, Datenmigration, APIs und Anwendungssupport fuer produktiv genutzte Systeme.",
+          },
+          {
+            number: "03",
+            title: "Cloud und Infrastruktur",
+            body:
+              "Linux-Server, Oracle Cloud, DNS, SSL, Datenbankadministration, Monitoring und Deployment-Support.",
+          },
+          {
+            number: "04",
+            title: "Automation und AI-Tools",
+            body:
+              "Workflow-Automatisierung, AI-unterstuetzte Entwicklung, Agent-Tools und RAG-Assistenten zur Reduktion wiederholter manueller Arbeit.",
+          },
+        ],
       },
       focusTitle: "Woran ich arbeite",
       focusEyebrow: "Hauptarbeit",

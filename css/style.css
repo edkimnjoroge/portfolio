@@ -639,6 +639,128 @@ a:focus {
 	letter-spacing: 0;
 	margin-bottom: 57px;
 }
+.cv_dossier{
+	display: grid;
+	grid-template-columns: 1fr;
+	width: 100%;
+	margin-top: 30px;
+	border: 1px solid rgba(255,255,255,.18);
+	background: #f3efe6;
+	box-shadow: 0 28px 70px rgba(0,0,0,.22);
+}
+.cv_dossier_side{
+	padding: 32px 34px 30px;
+	background: #102f37;
+	border-bottom: 1px solid rgba(255,255,255,.15);
+}
+.cv_dossier_kicker,
+.cv_dossier_label{
+	margin: 0 0 18px;
+	color: var(--mc);
+	font-size: 13px;
+	line-height: 1.4;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.cv_dossier_side h4,
+.cv_dossier_main h4{
+	margin: 0;
+	padding: 0;
+	letter-spacing: 0;
+}
+.cv_dossier_side h4{
+	color: #f8f3ea;
+	font-size: 28px;
+	font-weight: 500;
+}
+.cv_dossier_side p:not(.cv_dossier_kicker){
+	margin: 15px 0 0;
+	color: rgba(255,255,255,.72);
+	font-size: 17px;
+	line-height: 1.55;
+}
+.cv_dossier_side ul{
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 0 26px;
+	margin: 26px 0 0;
+	padding: 0;
+	list-style: none;
+}
+.cv_dossier_side li{
+	position: relative;
+	margin: 0;
+	padding: 13px 0 13px 20px;
+	border-top: 1px solid rgba(255,255,255,.12);
+	color: rgba(255,255,255,.82);
+	font-size: 15px;
+	line-height: 1.5;
+}
+.cv_dossier_side li:before{
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 22px;
+	width: 6px;
+	height: 6px;
+	background: var(--mc);
+}
+.cv_dossier_main{
+	padding: 36px 38px 34px;
+	color: #243238;
+}
+.cv_dossier_label{
+	color: #8b6b45;
+	margin-bottom: 16px;
+}
+.cv_dossier_main h4{
+	max-width: 760px;
+	color: #102f37;
+	font-size: 34px;
+	font-weight: 500;
+}
+.cv_dossier_main > p:not(.cv_dossier_label){
+	max-width: 800px;
+	margin: 18px 0 0;
+	color: #4d5d62;
+	font-size: 19px;
+	line-height: 1.65;
+}
+.cv_dossier_grid{
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 0 28px;
+	margin-top: 32px;
+	border-top: 1px solid rgba(16,47,55,.18);
+}
+.cv_dossier_card{
+	min-height: 188px;
+	padding: 25px 0 20px;
+	border-bottom: 1px solid rgba(16,47,55,.15);
+}
+.cv_dossier_card span{
+	display: block;
+	margin-bottom: 18px;
+	color: #9c784e;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.cv_dossier_card h5{
+	margin: 0;
+	color: #172e35;
+	font-size: 20px;
+	font-weight: 600;
+	letter-spacing: 0;
+}
+.cv_dossier_card p{
+	margin: 10px 0 0;
+	color: #526367;
+	font-size: 16px;
+	line-height: 1.58;
+	letter-spacing: 0;
+}
 /*------------------------------------------------------------------*/
 /*	06) About Section
 /*------------------------------------------------------------------*/
@@ -2249,6 +2371,7 @@ a:focus {
 	.resumo_fn_right .right_in{padding: 100px 20%;}
 	
 	#home{padding-top: 50px;min-height: inherit;padding-bottom: 0;}
+	.cv_dossier{margin-top: 50px;}
 	#about{padding-top: 150px;}
 	#portfolio{padding-top: 100px;}
 	#services{padding-top: 100px;}
@@ -2261,6 +2384,13 @@ a:focus {
 	.resumo_fn_contact .item.half{width: 100%;}
 	.resumo_fn_testimonials .desc,
 	.resumo_fn_main_title .desc{font-size: 20px;line-height: 1.5;}
+	.cv_dossier_side,
+	.cv_dossier_main{padding: 28px 22px;}
+	.cv_dossier_side ul,
+	.cv_dossier_grid{grid-template-columns: 1fr;}
+	.cv_dossier_main h4{font-size: 27px;}
+	.cv_dossier_main > p:not(.cv_dossier_label){font-size: 17px;}
+	.cv_dossier_card{min-height: 0;}
 	#nav ul a{font-size: 20px;}
 	#footer .footer_top:before{width: 20px;}
 	#footer .footer_top:after{right: 130px;}
@@ -2345,6 +2475,10 @@ body.light .resumo_fn_right:hover .border2{border-color: rgba(0,0,0,.3)}
 body.light .resumo_fn_cv_btn a{border-color: rgba(0,0,0,.2)}
 body.light .resumo_fn_cv_btn a:hover{border-color: var(--mc);}
 body.light .resumo_fn_cv_btn .icon{color: #333;}
+body.light .cv_dossier{
+	border-color: rgba(0,0,0,.1);
+	box-shadow: 0 26px 60px rgba(0,0,0,.10);
+}
 body.light .skill_chip{
 	background-color: rgba(0,0,0,.03);
 	border-color: rgba(0,0,0,.08);
