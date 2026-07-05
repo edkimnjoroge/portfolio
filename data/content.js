@@ -55,7 +55,7 @@ window.siteContent = {
         profileLabel: "Professional profile",
         profileTitle: "Business systems support with software and infrastructure depth.",
         profileBody:
-          "I work across the application, infrastructure, and user-support layers. Recent work includes supporting a multi-tenant SaaS platform migration and modernising an internal ERP/CRM system with zero data loss across 1,300+ records.",
+          "I work across the application, infrastructure, and user-support layers. Recent work includes supporting a multi-tenant SaaS platform migration and modernising an internal ERP/CRM system with zero data loss across 700+ customer records and 600+ product records.",
         cards: [
           {
             number: "01",
@@ -170,7 +170,7 @@ window.siteContent = {
         {
           role: "IT Systems / Application Support Lead",
           company: "Qodesystems",
-          period: "03/2025 - 09/2025",
+          period: "03/2025 - 10/2025",
           points: [
             "Led systems and application support for MarketpulseOS, a multi-tenant SaaS platform covering ERP, CRM, HRM, POS, and business operations workflows.",
             "Migrated Wideoptions Melamine from its internal ERP/CRM system to MarketpulseOS: tenant setup, data migration, access rights, workflow configuration, testing, and post-migration support.",
@@ -207,7 +207,7 @@ window.siteContent = {
         {
           role: "Freelance Software Developer & IT Consultant",
           company: "Independent",
-          period: "2015 - 06/2023",
+          period: "2015 - 06/2024",
           points: [
             "Provided project-based software development, IT support, and technical consulting for SMEs and individual clients.",
             "Built and maintained websites, e-commerce systems, and business applications, including Laravel and Flutter-based platforms.",
@@ -312,7 +312,7 @@ window.siteContent = {
       eyebrow: "Professional contact",
       title: "Get in touch",
       intro:
-        "For software, IT systems, application support, automation, or selected creative opportunities, the best initial contact is email.",
+        "For software, IT systems, application support, automation, or selected creative opportunities, the best initial contact is email. I am based in Germany, available immediately, and open to relocation within Germany.",
       emailLabel: "Email",
       emailValue: "edkimnjoroge@gmail.com",
       namePlaceholder: "Name *",
@@ -400,7 +400,7 @@ window.siteContent = {
         profileLabel: "Berufliches Profil",
         profileTitle: "Business-System-Support mit Software- und Infrastrukturverstaendnis.",
         profileBody:
-          "Ich arbeite an der Schnittstelle von Anwendung, Infrastruktur und Benutzersupport. Zuletzt habe ich eine mandantenfaehige SaaS-Migration unterstuetzt und ein internes ERP/CRM-System mit 1.300+ Datensaetzen ohne Datenverlust modernisiert.",
+          "Ich arbeite an der Schnittstelle von Anwendung, Infrastruktur und Benutzersupport. Zuletzt habe ich eine mandantenfaehige SaaS-Migration unterstuetzt und ein internes ERP/CRM-System mit 700+ Kundendatensaetzen und 600+ Produktdatensaetzen ohne Datenverlust modernisiert.",
         cards: [
           {
             number: "01",
@@ -515,7 +515,7 @@ window.siteContent = {
         {
           role: "IT Systems / Application Support Lead",
           company: "Qodesystems",
-          period: "03/2025 - 09/2025",
+          period: "03/2025 - 10/2025",
           points: [
             "System- und Anwendungssupport fuer MarketpulseOS geleitet, eine mandantenfaehige SaaS-Plattform fuer ERP, CRM, HRM, POS und operative Workflows.",
             "Wideoptions Melamine von internem ERP/CRM auf MarketpulseOS migriert: Mandanten-Setup, Datenmigration, Zugriffsrechte, Workflow-Konfiguration, Testing und Support nach der Migration.",
@@ -552,7 +552,7 @@ window.siteContent = {
         {
           role: "Freelance Software Developer & IT Consultant",
           company: "Independent",
-          period: "2015 - 06/2023",
+          period: "2015 - 06/2024",
           points: [
             "Projektbasierte Softwareentwicklung, IT-Support und technische Beratung fuer KMU und Einzelkunden geleistet.",
             "Websites, E-Commerce-Systeme und Business-Anwendungen gebaut und betreut, darunter Laravel- und Flutter-basierte Plattformen.",
@@ -657,7 +657,7 @@ window.siteContent = {
       eyebrow: "Beruflicher Kontakt",
       title: "Kontakt",
       intro:
-        "Fuer Software-, IT-Systems-, Application-Support-, Automation- oder ausgewaehlte kreative Chancen ist E-Mail der beste erste Kontaktweg.",
+        "Fuer Software-, IT-Systems-, Application-Support-, Automation- oder ausgewaehlte kreative Chancen ist E-Mail der beste erste Kontaktweg. Ich bin in Deutschland, sofort verfuegbar und offen fuer Umzug innerhalb Deutschlands.",
       emailLabel: "E-Mail",
       emailValue: "edkimnjoroge@gmail.com",
       namePlaceholder: "Name *",

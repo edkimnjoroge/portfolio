@@ -161,8 +161,6 @@
         links: [
           { label: { en: "Qodesystems" }, url: "https://qodesystems.com" },
           { label: { en: "Live demo" }, url: "https://demo.marketpulseos.com" },
-          { label: { en: "ERP access" }, url: "https://erp.wideoptions.co.ke" },
-          { label: { en: "CRM access" }, url: "https://crm.wideoptions.co.ke" },
         ],
         gallery: [
           image("2025/10/Screenshot_21-10-2025_185219_marketpulseos.com_.jpeg", "MarketpulseOS public product screen", "Public-facing screen from the MarketpulseOS product site."),
@@ -170,7 +168,7 @@
           image("2025/10/Screenshot_21-10-2025_195524_demo.marketpulseos.com_.jpeg", "MarketpulseOS module screen", "Operational module screen from the platform workflow."),
           image("2025/10/Screenshot_21-10-2025_195432_demo.marketpulseos.com_.jpeg", "MarketpulseOS dashboard screen", "Dashboard view of the live platform."),
         ],
-        relatedItems: ["wideoptions-erp-hrm-crm", "wideoptions-melamine-website"],
+        relatedItems: ["wideoptions-erp-hrm-crm", "barabara-alerts"],
       },
       {
         slug: "wideoptions-erp-hrm-crm",
@@ -193,7 +191,6 @@
         stackOrTools: { en: "React, Node.js, MySQL, ERP, HRM, CRM, operational dashboards, user roles, support documentation" },
         outcome: { en: "Consolidated business workflows into one management platform for daily company use, with staff setup and support processes in place." },
         links: [
-          { label: { en: "Live ERP" }, url: "https://erp.wideoptions.co.ke/" },
           { label: { en: "Brand guide PDF" }, url: archive + "2025/06/WIDE-OPTIONS-BRANDGUIDE.pdf" },
         ],
         gallery: [
@@ -210,34 +207,7 @@
           image("2025/06/Screenshot_24-6-2025_14426_erp.wideoptions.co_.ke_.jpeg", "WideOptions ERP records screen", "Records screen from the ERP workflow."),
           file("2025/06/WIDE-OPTIONS-BRANDGUIDE.pdf", "WideOptions brand guide", "Downloadable brand guide prepared for client-facing use."),
         ],
-        relatedItems: ["marketpulse-os-saas-product-architecture-and-operations", "wideoptions-melamine-website"],
-      },
-      {
-        slug: "wideoptions-melamine-website",
-        section: "projects",
-        categories: ["website-apps"],
-        year: "2025",
-        coverImage: archive + "2025/06/Screenshot-2025-06-24-011542.jpg",
-        title: { en: "WideOptions Melamine Website" },
-        kicker: { en: "Manufacturing business website" },
-        summary: { en: "A WordPress website for a Kenyan melamine tableware manufacturer, presenting product quality, customization, and customer-facing brand content." },
-        fullDescription: {
-          en: [
-            "I developed the WideOptions Melamine website for a premium melamine tableware manufacturer in Kenya. The site presents dinner sets, tray sets, cups, and the company's custom decal and print offering.",
-            "The goal was to create a professional, visually clear online presence for a specialized manufacturing business, with a stronger brand surface around food-grade assured tableware and personalized designs.",
-            "This project complements the ERP work by showing both sides of the engagement: the customer-facing website and the internal operational platform behind the business."
-          ],
-        },
-        role: { en: "WordPress implementation, brand presentation, responsive delivery, and product-content organization." },
-        stackOrTools: { en: "WordPress, responsive front end, branded manufacturing content" },
-        outcome: { en: "Delivered a clearer public web presence for the WideOptions Melamine brand." },
-        links: [{ label: { en: "Visit website" }, url: "https://wideoptions.co.ke/" }],
-        gallery: [
-          image("2025/06/Screenshot-2025-06-24-011542.jpg", "WideOptions Melamine homepage screenshot", "Homepage view of the public business website."),
-          image("2025/06/Wideoption-Background-01-scaled.jpg", "WideOptions background artwork", "Background artwork used in the site visual system."),
-          image("2025/06/Wideoption-Background-01-scaled.png", "WideOptions transparent brand artwork", "Transparent brand artwork used across the project visuals."),
-        ],
-        relatedItems: ["wideoptions-erp-hrm-crm", "kritiplacejoint"],
+        relatedItems: ["marketpulse-os-saas-product-architecture-and-operations", "barabara-alerts"],
       },
       {
         slug: "barabara-alerts",
@@ -294,7 +264,7 @@
           image("2025/06/Screenshot_24-6-2025_2029_lockdownice.com_-scaled.jpeg", "Lockdown Ice website screenshot", "Archived screenshot from the online shop."),
           image("2023/06/slider1.jpg", "Lockdown Ice storefront banner", "Storefront banner used in the Lockdown Ice website."),
         ],
-        relatedItems: ["kritiplacejoint", "wideoptions-melamine-website"],
+        relatedItems: ["kritiplacejoint", "marketpulse-os-saas-product-architecture-and-operations"],
       },
       {
         slug: "kritiplacejoint",
@@ -323,7 +293,7 @@
           image("2020/01/Screenshot-2025-06-24-004309.jpg", "Kritiplacejoint website screenshot", "Homepage screenshot of the bakery website."),
           image("2020/01/frederick-medina-J8uTXtVbEbw-unsplash-scaled-1.jpg", "Kritiplacejoint bakery background", "Supporting bakery background image used in the site design."),
         ],
-        relatedItems: ["wideoptions-melamine-website", "lockdown-ice-online-shop"],
+        relatedItems: ["lockdown-ice-online-shop", "barabara-alerts"],
       },
       {
         slug: "demo-reel",
